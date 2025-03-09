@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a linked list?",
+      "options": [
+        "A collection of arrays",
+        "A dynamic data structure consisting of nodes",
+        "A stack-based structure",
+        "A type of queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a major advantage of linked lists over arrays?",
+      "options": [
+        "Faster element access",
+        "Static memory allocation",
+        "Dynamic memory allocation",
+        "Consumes less memory than arrays"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which type of linked list is best suited for implementing a music playlist that loops?",
+      "options": [
+        "Singly Linked List",
+        "Doubly Linked List",
+        "Circular Linked List",
+        "Multi-Level Linked List"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Why is linked list preferred over an array in dynamic memory allocation?",
+      "options": [
+        "It allows fixed-size memory allocation",
+        "It enables dynamic resizing",
+        "It requires less memory than arrays",
+        "It allows direct indexing of elements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which application uses a linked list to store browsing history?",
+      "options": [
+        "Social Media Friend Suggestions",
+        "Undo/Redo Feature",
+        "Web Browser Back & Forward",
+        "Music Playlist"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following applications use stacks implemented via linked lists?",
+      "options": [
+        "Undo/Redo Feature",
+        "Hash Tables",
+        "Computer Memory Management",
+        "Friend Suggestions in Social Media"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which function is used to allocate memory dynamically for a linked list node in C?",
+      "options": [
+        "malloc()",
+        "alloc()",
+        "new()",
+        "calloc()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which data structure is used to efficiently implement task management and job scheduling?",
+      "options": [
+        "Hash Table",
+        "Queue",
+        "Graph",
+        "Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In which application does a linked list help store multiple values in the same \"bucket\" when a hash collision occurs?",
+      "options": [
+        "Undo/Redo Feature",
+        "Stacks and Queues",
+        "Hash Tables",
+        "Web Browser Back & Forward"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which type of linked list is used in social media friend suggestions?",
+      "options": [
+        "Singly Linked List",
+        "Circular Linked List",
+        "Doubly Linked List",
+        "Graph Representation using Linked List"
+      ],
+      "answer": 4
+    }
+  ]
+  

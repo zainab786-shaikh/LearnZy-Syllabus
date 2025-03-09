@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "Traversing a data structure means accessing each element exactly once.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Insertion refers to removing an element from a data structure.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Deletion in an array involves shifting elements to fill the removed element's space.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Traversing an array allows modification of its elements while accessing them.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "In an array, insertion at any position requires shifting elements to maintain order.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Deletion of an element from an array reduces its size automatically.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Insertion in an array always happens at the end without shifting other elements.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Traversing an array with a loop can be done using a for or while loop in C.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Insertion and deletion operations in arrays are always O(1) in time complexity.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "After deleting an element from an array, the remaining elements must be shifted to maintain continuity.",
+      "answer": true
+    }
+  ]
+  

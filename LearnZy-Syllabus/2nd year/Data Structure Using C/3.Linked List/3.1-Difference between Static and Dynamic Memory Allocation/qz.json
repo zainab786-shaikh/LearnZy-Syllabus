@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is static memory allocation?",
+      "options": [
+        "Memory allocated at runtime",
+        "Memory allocated at compile time",
+        "Memory allocated dynamically",
+        "Memory allocated manually"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which memory location is used for static memory allocation?",
+      "options": [
+        "Heap memory",
+        "Stack memory",
+        "Both stack and heap",
+        "Registers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which type of memory allocation is more flexible?",
+      "options": [
+        "Static memory allocation",
+        "Dynamic memory allocation",
+        "Both are equally flexible",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Why is static memory allocation faster?",
+      "options": [
+        "Because memory is allocated during runtime",
+        "Because memory is allocated only once at compile time",
+        "Because memory is allocated dynamically",
+        "Because it uses the heap"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which function is used for dynamic memory allocation in C?",
+      "options": [
+        "malloc()",
+        "alloc()",
+        "static()",
+        "new()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which memory location does dynamic memory allocation use?",
+      "options": [
+        "Stack",
+        "Heap",
+        "Both stack and heap",
+        "Registers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What happens when allocated memory is not freed in dynamic memory allocation?",
+      "options": [
+        "Memory leak occurs",
+        "Memory is automatically freed",
+        "The program crashes immediately",
+        "Memory becomes static"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which function is used to free dynamically allocated memory in C?",
+      "options": [
+        "release()",
+        "delete()",
+        "free()",
+        "clear()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which statement about static memory allocation is true?",
+      "options": [
+        "Memory is allocated at runtime",
+        "Memory size cannot be changed during execution",
+        "It is slower than dynamic memory allocation",
+        "It always uses heap memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which statement about dynamic memory allocation is false?",
+      "options": [
+        "Memory is allocated at runtime",
+        "Memory can be resized during execution",
+        "It always uses stack memory",
+        "It requires explicit deallocation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an example of static memory allocation?",
+      "options": [
+        "int *arr = (int *)malloc(5 * sizeof(int));",
+        "int arr[5];",
+        "int *arr = new int[5];",
+        "free(arr);"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of dynamic memory allocation?",
+      "options": [
+        "int arr[10];",
+        "int *arr = (int *)malloc(10 * sizeof(int));",
+        "int num;",
+        "char str[20];"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which memory allocation method can cause memory waste if not used properly?",
+      "options": [
+        "Static memory allocation",
+        "Dynamic memory allocation",
+        "Both static and dynamic",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a disadvantage of static memory allocation?",
+      "options": [
+        "It is slower than dynamic allocation",
+        "It requires explicit deallocation",
+        "It may waste memory if the declared size is too large",
+        "It can only be used for dynamic structures"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "In dynamic memory allocation, which of the following can resize allocated memory?",
+      "options": [
+        "malloc()",
+        "free()",
+        "realloc()",
+        "delete()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What happens if you try to free a memory block twice?",
+      "options": [
+        "It results in a memory leak",
+        "It causes undefined behavior",
+        "It safely frees memory",
+        "It reallocates memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Which function is used to allocate contiguous memory in C?",
+      "options": [
+        "malloc()",
+        "calloc()",
+        "realloc()",
+        "new()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What is the advantage of dynamic memory allocation over static memory allocation?",
+      "options": [
+        "It is faster",
+        "It allows variable-sized memory allocation at runtime",
+        "It automatically releases memory",
+        "It does not use heap memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which of the following statements about heap memory is true?",
+      "options": [
+        "Heap memory is allocated at compile time",
+        "Heap memory is allocated dynamically at runtime",
+        "Heap memory is faster than stack memory",
+        "Heap memory does not require deallocation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which function is used to allocate memory dynamically in C++?",
+      "options": [
+        "malloc()",
+        "new()",
+        "free()",
+        "realloc()"
+      ],
+      "answer": 2
+    }
+  ]
+  

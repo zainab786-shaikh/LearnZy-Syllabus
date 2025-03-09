@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "A ______ data structure stores elements sequentially, one after another.",
+      "options": [
+        "Linear",
+        "Non-Linear",
+        "Hierarchical",
+        "Random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "A ______ follows the Last In, First Out (LIFO) principle.",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Graph"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A queue follows the ______ principle.",
+      "options": [
+        "LIFO",
+        "FIFO",
+        "Random Access",
+        "Hierarchical"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A ______ is a collection of elements stored in contiguous memory locations.",
+      "options": [
+        "Linked List",
+        "Graph",
+        "Array",
+        "Tree"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "In a ______ data structure, elements are not arranged sequentially but are connected hierarchically.",
+      "options": [
+        "Linear",
+        "Non-Linear",
+        "Contiguous",
+        "Sequential"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A ______ is a non-linear data structure where nodes are connected by edges.",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Array"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "A family tree is an example of a ______ data structure.",
+      "options": [
+        "Stack",
+        "Tree",
+        "Queue",
+        "Array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In a linked list, each node contains data and a reference to the ______ node.",
+      "options": [
+        "Previous",
+        "Next",
+        "Root",
+        "Parent"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "A queue at a ticket counter follows the ______ data structure principle.",
+      "options": [
+        "LIFO",
+        "FIFO",
+        "DFS",
+        "Random"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A social media network is an example of a ______ data structure.",
+      "options": [
+        "Tree",
+        "Graph",
+        "Stack",
+        "Array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A ______ stores key-value pairs for quick lookup.",
+      "options": [
+        "Stack",
+        "Hash Table",
+        "Queue",
+        "Linked List"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The first and last elements of a ______ data structure have only one connection each.",
+      "options": [
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Graph"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "A tree consists of a root node and ______ nodes.",
+      "options": [
+        "Linked",
+        "Child",
+        "Sequential",
+        "Stacked"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A ______ is a collection of elements where insertion happens at the rear and deletion happens at the front.",
+      "options": [
+        "Queue",
+        "Stack",
+        "Graph",
+        "Array"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "A stack is often implemented using an ______.",
+      "options": [
+        "Graph",
+        "Queue",
+        "Array",
+        "Hash Table"
+      ],
+      "answer": 3
+    }
+  ]
+  

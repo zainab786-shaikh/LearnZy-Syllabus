@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A linked list consists of nodes where each node contains _______ and a pointer to the next node.",
+      "options": [
+        "only a pointer",
+        "only data",
+        "data",
+        "an array of data"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "In a linked list, dynamic memory allocation allows memory to be _______ as needed.",
+      "options": [
+        "statically allocated",
+        "freed and allocated",
+        "predefined",
+        "fixed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Unlike arrays, linked lists do not require a predefined _______.",
+      "options": [
+        "pointer",
+        "size",
+        "data type",
+        "structure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In a mobile app contact list, a _______ allows adding contacts without worrying about size limitations.",
+      "options": [
+        "static array",
+        "linked list",
+        "hash table",
+        "stack"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Stacks follow the _______ principle.",
+      "options": [
+        "FIFO (First In, First Out)",
+        "LIFO (Last In, First Out)",
+        "Random Order",
+        "Circular Processing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Queues follow the _______ principle.",
+      "options": [
+        "FIFO (First In, First Out)",
+        "LIFO (Last In, First Out)",
+        "Random Order",
+        "Direct Access"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Undo/Redo operations in applications are efficiently handled using _______.",
+      "options": [
+        "arrays",
+        "linked lists",
+        "binary trees",
+        "hash tables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A hash table uses _______ to handle collisions.",
+      "options": [
+        "arrays",
+        "linked lists",
+        "stacks",
+        "binary trees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Operating systems use linked lists for _______ management.",
+      "options": [
+        "memory",
+        "CPU scheduling",
+        "I/O operations",
+        "user authentication"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "A social media friend suggestion system uses linked lists as a representation of a _______.",
+      "options": [
+        "queue",
+        "graph",
+        "stack",
+        "hash table"
+      ],
+      "answer": 2
+    }
+  ]
+  

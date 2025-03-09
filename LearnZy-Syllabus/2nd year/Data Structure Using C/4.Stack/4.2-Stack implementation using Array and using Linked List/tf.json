@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the LIFO principle.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Stacks can only be implemented using arrays.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The push operation removes an element from the stack.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "A linked list-based stack has a dynamic size.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Stack overflow occurs when the stack is empty.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "The pop operation removes the top element from the stack.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "An array-based stack requires extra memory for pointers.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "The peek operation modifies the top element of the stack.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "In a linked list-based stack, nodes are dynamically allocated in memory.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "A linked list-based stack can grow dynamically without any size limitation.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "A stack can be implemented using both arrays and linked lists.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "The isEmpty() function checks if the stack is full.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Stack underflow occurs when trying to pop from an empty stack.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "In an array-based stack, the top variable keeps track of the last inserted element.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Stacks follow the FIFO principle.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Linked list-based stacks require more memory than array-based stacks due to pointers.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "An array-based stack is always more memory-efficient than a linked list-based stack.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "A stack can have a fixed size when implemented using an array.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "The top pointer in a linked list-based stack always points to the bottom node.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Push and pop operations in stacks have a time complexity of O(1).",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Stacks allow insertion and deletion from both ends.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Stack data structures are used in recursion.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "The stack is a type of linear data structure.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "A stack's size can be changed dynamically in an array-based implementation.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "A linked list-based stack does not require extra memory allocation.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "The top of the stack is always the most recently inserted element.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The pop operation adds an element to the stack.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "A stack is useful for implementing undo/redo operations.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Stack operations require shifting of elements in an array implementation.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "A queue is a better choice than a stack for tracking function calls in recursion.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "A linked list-based stack can never run out of memory.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "A stack is also known as a last-in, first-out (LIFO) structure.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Stacks can be used for backtracking in algorithms.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "The isFull() function checks whether the stack is empty.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "The top variable in an array-based stack initially has a value of -1.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "In a linked list-based stack, new elements are always inserted at the head.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "An array-based stack is always faster than a linked list-based stack.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "Stacks are used in depth-first search (DFS) algorithms.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "A stack-based implementation of a queue is called a deque.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Linked list-based stacks have a fixed size.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "A stack is useful for expression evaluation and conversion.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "A queue follows the same principle as a stack.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "The space complexity of a stack operation is O(1).",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Stacks allow random access to any element in the structure.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "The function stack in programming is an example of a stack data structure.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "A stack is an example of a non-linear data structure.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Stack underflow occurs when attempting to insert an element into a full stack.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "The pop operation in a stack takes O(n) time complexity.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "Stacks are widely used in undo operations in text editors.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "A linked list-based stack does not need a top pointer.",
+      "answer": false
+    }
+  ]
+  

@@ -1,0 +1,278 @@
+[
+    {
+      "id": 1,
+      "question": "What is a data structure?",
+      "options": [
+        "A type of database",
+        "A way of organizing and storing data efficiently",
+        "A type of programming language",
+        "A software application"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a reason for using data structures?",
+      "options": [
+        "Efficient data management",
+        "Optimized memory usage",
+        "Slower processing speed",
+        "Better problem-solving"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which real-life example best represents an array?",
+      "options": [
+        "A stack of plates",
+        "A bookshelf with books arranged in a row",
+        "A queue at a ticket counter",
+        "A road map with intersections"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which data structure follows the LIFO principle?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Graph"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is an example of an Abstract Data Type (ADT)?",
+      "options": [
+        "Tree",
+        "Queue",
+        "Heap",
+        "Binary Search Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following data structures is hierarchical?",
+      "options": [
+        "Array",
+        "Stack",
+        "Tree",
+        "Queue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the primary benefit of using a linked list over an array?",
+      "options": [
+        "Faster retrieval of elements",
+        "Efficient memory utilization with dynamic allocation",
+        "Fixed size allocation",
+        "Random access capability"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which data structure is used in GPS navigation for finding the shortest route?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Array"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "In which ADT do insertions happen at the rear and deletions happen at the front?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Heap"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following operations is NOT associated with the Stack ADT?",
+      "options": [
+        "Push",
+        "Pop",
+        "Peek",
+        "Enqueue"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an example of a Dictionary ADT?",
+      "options": [
+        "Phone book",
+        "Stack of books",
+        "Train reservation system",
+        "Queue at a bank"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which data structure uses nodes connected by edges?",
+      "options": [
+        "Array",
+        "Graph",
+        "Stack",
+        "Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which operation is NOT a part of the List ADT?",
+      "options": [
+        "Insert",
+        "Delete",
+        "Sort",
+        "Traverse"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Which data structure is ideal for implementing Undo/Redo operations?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Tree",
+        "Graph"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is an Abstract Data Type (ADT)?",
+      "options": [
+        "A specific data structure implementation",
+        "A mathematical model defining operations on data",
+        "A type of algorithm",
+        "A storage mechanism"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which data structure is most suitable for managing memory in recursion?",
+      "options": [
+        "Queue",
+        "Array",
+        "Stack",
+        "Graph"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT an example of a real-life use of data structures?",
+      "options": [
+        "A restaurant menu",
+        "A contact list in a phone",
+        "A social media news feed",
+        "A house floor plan"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is NOT a characteristic of an array?",
+      "options": [
+        "Fixed size",
+        "Contiguous memory allocation",
+        "Dynamic memory allocation",
+        "Random access capability"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Which data structure is used in operating systems for process scheduling?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which data structure is used in databases for indexing?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Tree"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Which data structure allows insertion and deletion only at one end?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is a linear data structure?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Stack",
+        "Heap"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "What type of data structure is best suited for implementing a priority queue?",
+      "options": [
+        "Heap",
+        "Stack",
+        "Queue",
+        "Graph"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Which data structure is used in the backtracking algorithm?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Graph",
+        "Array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Which ADT represents a collection of key-value pairs?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Dictionary",
+        "Graph"
+      ],
+      "answer": 3
+    }
+  ]
+  

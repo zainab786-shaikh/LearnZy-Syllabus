@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "question": "A Singly Linked List allows traversal in ________ direction only.",
+      "options": ["one", "two", "random", "circular"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In a Singly Linked List, the last node points to ________.",
+      "options": ["head", "NULL", "itself", "previous node"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A Circular Linked List does not have a ________ node.",
+      "options": ["head", "tail", "NULL", "data"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "A Doubly Linked List allows traversal in ________ directions.",
+      "options": ["one", "two", "three", "infinite"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Each node in a Doubly Linked List contains two pointers: one to the next node and one to the ________ node.",
+      "options": ["previous", "first", "NULL", "head"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A Singly Linked List uses ________ pointer per node.",
+      "options": ["one", "two", "three", "four"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In a Circular Linked List, the last node points to the ________ node.",
+      "options": ["NULL", "middle", "head", "random"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The extra pointer in a Doubly Linked List increases ________ usage.",
+      "options": ["memory", "speed", "performance", "complexity"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The traversal of a Circular Linked List continues in a ________ loop.",
+      "options": ["finite", "nested", "continuous", "NULL-based"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "A Singly Linked List is ________ to implement compared to a Doubly Linked List.",
+      "options": ["harder", "easier", "impossible", "slower"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Each node in a Singly Linked List has two parts: data and a ________ to the next node.",
+      "options": ["pointer", "reference", "index", "array"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Circular Linked Lists are commonly used in ________ scheduling.",
+      "options": ["FIFO", "round-robin", "LIFO", "random"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "A Doubly Linked List allows ________ traversal of elements.",
+      "options": ["one-way", "circular", "two-way", "random"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "A Circular Linked List is beneficial in applications where elements need to be processed in a ________ manner.",
+      "options": ["fixed", "repetitive", "sequential", "random"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Insertion at the beginning of a Singly Linked List requires updating the ________ pointer.",
+      "options": ["tail", "middle", "head", "NULL"],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "A Singly Linked List is not suitable for ________ traversal.",
+      "options": ["forward", "random", "backward", "indexed"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "A Circular Linked List does not contain a ________ pointer.",
+      "options": ["head", "NULL", "previous", "data"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "A Doubly Linked List requires more ________ than a Singly Linked List.",
+      "options": ["CPU", "memory", "disk space", "bandwidth"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "In a Doubly Linked List, the last node’s next pointer is ________.",
+      "options": ["NULL", "head", "previous", "random"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "A Circular Linked List is useful when there is a need for a ________ loop.",
+      "options": ["finite", "permanent", "continuous", "random"],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "A Doubly Linked List can be traversed using both the next and ________ pointers.",
+      "options": ["NULL", "head", "previous", "middle"],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "In a Singly Linked List, deletion of the last node requires traversal from the ________ node.",
+      "options": ["NULL", "head", "tail", "middle"],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "A Circular Linked List can be implemented using both Singly and ________ Linked Lists.",
+      "options": ["Doubly", "Fixed", "Random", "Static"],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Each node in a Circular Linked List has a pointer that links it to the ________ node.",
+      "options": ["last", "head", "previous", "random"],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "The Circular Linked List does not have an explicit ________ pointer.",
+      "options": ["tail", "head", "NULL", "index"],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "The time complexity of inserting an element at the beginning of a Singly Linked List is ________.",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "A Singly Linked List is not ideal for applications that require ________ lookup.",
+      "options": ["sequential", "direct", "linear", "unordered"],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "A Doubly Linked List provides a more efficient way to delete a node without requiring ________ traversal.",
+      "options": ["backward", "full", "indexed", "random"],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "In a Circular Linked List, the traversal can be done from any node as there is no ________ node.",
+      "options": ["head", "NULL", "tail", "fixed"],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Doubly Linked Lists allow insertion and deletion at both ends with ________ time complexity.",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+      "answer": 1
+    }
+  ]
+  

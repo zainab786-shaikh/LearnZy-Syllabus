@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which principle does a queue follow?",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "Random Order Processing",
+        "Priority-Based Processing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a linear queue, where are elements inserted?",
+      "options": [
+        "At the front",
+        "At the rear",
+        "In the middle",
+        "At any random position"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What happens when a queue is full in an array implementation?",
+      "options": [
+        "New elements are inserted at the front",
+        "Queue overflows",
+        "Older elements are removed",
+        "Queue automatically resizes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which queue type efficiently reuses space after elements are dequeued?",
+      "options": [
+        "Linear Queue",
+        "Circular Queue",
+        "Priority Queue",
+        "Double-Ended Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following real-life scenarios is an example of a linear queue?",
+      "options": [
+        "CPU scheduling",
+        "Bank queue",
+        "Emergency room patient handling",
+        "Undo operation in a text editor"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In a circular queue, what happens when the rear reaches the last position?",
+      "options": [
+        "It stops inserting elements",
+        "It moves to the front if space is available",
+        "It overwrites elements",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which queue type allows insertion and deletion from both ends?",
+      "options": [
+        "Linear Queue",
+        "Circular Queue",
+        "Priority Queue",
+        "Double-Ended Queue (Deque)"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "Which queue type is used in an emergency room where critical patients are treated first?",
+      "options": [
+        "Linear Queue",
+        "Circular Queue",
+        "Priority Queue",
+        "Double-Ended Queue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is a major disadvantage of a linear queue?",
+      "options": [
+        "Difficult implementation",
+        "Memory wastage",
+        "Slow processing",
+        "Requires linked list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which queue type is used in a browser history where elements can be accessed from both ends?",
+      "options": [
+        "Linear Queue",
+        "Circular Queue",
+        "Priority Queue",
+        "Double-Ended Queue (Deque)"
+      ],
+      "answer": 4
+    }
+  ]
+  

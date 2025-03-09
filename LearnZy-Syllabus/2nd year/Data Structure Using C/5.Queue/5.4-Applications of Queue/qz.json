@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which principle does a queue follow?",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "Random Order Processing",
+        "Priority-based Execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a queue in real life?",
+      "options": [
+        "Stack of books",
+        "Line at a ticket counter",
+        "A set of nested loops",
+        "Binary tree traversal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is an example of a queue in operating systems?",
+      "options": [
+        "Job scheduling",
+        "Recursion management",
+        "Memory allocation",
+        "Function calling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which scheduling algorithm in operating systems uses a queue?",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Round Robin",
+        "First Come First Serve (FCFS)",
+        "Both Round Robin and FCFS"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "How does a printer handle multiple print requests?",
+      "options": [
+        "Using a queue",
+        "Using a stack",
+        "Using recursion",
+        "Using a linked list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What does a keyboard buffer use to store keypresses?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Heap",
+        "Tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following uses queues in customer service systems?",
+      "options": [
+        "Handling customer calls",
+        "Managing database indexing",
+        "Storing passwords",
+        "Performing cryptographic functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "In networking, how are data packets managed?",
+      "options": [
+        "Using a queue",
+        "Using a graph",
+        "Using a stack",
+        "Using a tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which real-life scenario represents a queue?",
+      "options": [
+        "Cars at a toll booth",
+        "Books stacked on a shelf",
+        "Water flowing in pipes",
+        "A tree growing in a forest"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "How do cloud computing platforms manage job requests?",
+      "options": [
+        "Using queues",
+        "Using stacks",
+        "Using binary trees",
+        "Using recursion"
+      ],
+      "answer": 1
+    }
+  ]
+  

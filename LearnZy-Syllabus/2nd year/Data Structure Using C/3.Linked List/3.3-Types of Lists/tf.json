@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "question": "A Singly Linked List allows traversal in only one direction.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a Singly Linked List, the last node always points to the head node.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "A Circular Linked List does not contain a NULL pointer.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Doubly Linked Lists provide more efficient deletion than Singly Linked Lists.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "A Doubly Linked List requires less memory than a Singly Linked List.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "A Circular Linked List can be implemented using both Singly and Doubly Linked Lists.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "In a Singly Linked List, each node has two pointers: one pointing to the previous node and one to the next node.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A Circular Linked List is useful in applications requiring continuous traversal.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A Doubly Linked List allows traversal only in the forward direction.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The time complexity for inserting an element at the beginning of a Singly Linked List is O(1).",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "In a Circular Linked List, the last node points to NULL.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "A Singly Linked List is an ideal choice for implementing undo functionality in applications.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Doubly Linked Lists allow traversal in both forward and backward directions.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A Singly Linked List provides efficient access to the middle element.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Inserting an element at the end of a Singly Linked List requires traversing the entire list.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Circular Linked Lists are commonly used in Round-Robin scheduling algorithms.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Doubly Linked Lists are more complex to implement compared to Singly Linked Lists.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "A Singly Linked List requires less memory per node than a Doubly Linked List.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "A Circular Linked List has a well-defined beginning and end, just like a Singly Linked List.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "In a Circular Linked List, a new node can be inserted at the beginning without affecting traversal.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "A Singly Linked List is more memory-efficient than an array.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "In a Doubly Linked List, the previous pointer of the first node points to NULL.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Circular Linked Lists have advantages over Singly Linked Lists when implementing continuous buffer storage.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "In a Singly Linked List, deletion at the end requires traversing the entire list.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "The memory used by a Doubly Linked List is always less than that of a Singly Linked List.",
+      "answer": false
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the ______ principle.",
+      "options": [
+        "First In, First Out (FIFO)",
+        "Last In, First Out (LIFO)",
+        "Random Order Processing",
+        "Priority-based Execution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In job scheduling, queues are used to schedule tasks based on ______.",
+      "options": [
+        "priority or arrival time",
+        "random selection",
+        "user preference",
+        "CPU temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ______ scheduling algorithm uses a queue to manage tasks fairly.",
+      "options": [
+        "Round Robin",
+        "Shortest Job First",
+        "Priority Scheduling",
+        "Multi-level Feedback Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "When multiple documents are sent to a printer, they are stored in a ______.",
+      "options": [
+        "stack",
+        "queue",
+        "tree",
+        "linked list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In computing, a keyboard buffer stores keystrokes in a ______ before processing them.",
+      "options": [
+        "queue",
+        "stack",
+        "graph",
+        "tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A queue stores keystrokes and processes them in the order they are ______.",
+      "options": [
+        "deleted",
+        "entered",
+        "ignored",
+        "overwritten"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In customer service call centers, customers are placed in a ______ while waiting for an agent.",
+      "options": [
+        "stack",
+        "queue",
+        "database",
+        "hash table"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Network devices use queues to manage ______ before forwarding them.",
+      "options": [
+        "passwords",
+        "data packets",
+        "server logs",
+        "firewall settings"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Routers and switches store incoming network data in a ______.",
+      "options": [
+        "queue",
+        "stack",
+        "hash table",
+        "recursion tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Cloud computing platforms use queues to allocate ______ efficiently.",
+      "options": [
+        "resources",
+        "URLs",
+        "IP addresses",
+        "database queries"
+      ],
+      "answer": 1
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What are the two ways to implement a stack?",
+      "options": [
+        "Using an array and queue",
+        "Using an array and linked list",
+        "Using a linked list and queue",
+        "Using an array and tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following operations is NOT performed on a stack?",
+      "options": [
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Peek"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What does the push operation do in a stack?",
+      "options": [
+        "Removes the top element",
+        "Inserts an element at the top",
+        "Displays the top element",
+        "Checks if the stack is full"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What does the pop operation do in a stack?",
+      "options": [
+        "Inserts an element at the top",
+        "Removes the top element",
+        "Displays all elements",
+        "Checks if the stack is empty"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which function is used to check if a stack is empty?",
+      "options": [
+        "isFull()",
+        "isEmpty()",
+        "peek()",
+        "pop()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which stack implementation is dynamic in size?",
+      "options": [
+        "Array-based stack",
+        "Linked list-based stack",
+        "Queue-based stack",
+        "Binary tree-based stack"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is the disadvantage of an array-based stack?",
+      "options": [
+        "Fixed size",
+        "Takes extra memory for pointers",
+        "Slower push operation",
+        "Requires complex algorithms"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an advantage of a linked list-based stack?",
+      "options": [
+        "Fixed size",
+        "Dynamic size",
+        "No memory overhead",
+        "Uses less memory than arrays"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the time complexity of the push operation in a stack?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which pointer is used to keep track of the top element in an array-based stack?",
+      "options": [
+        "Bottom",
+        "Middle",
+        "Top",
+        "Head"
+      ],
+      "answer": 3
+    }
+  ]
+  

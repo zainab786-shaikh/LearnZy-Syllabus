@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the ______ principle.",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "FILO",
+        "LILO"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The two main operations of a stack are ______ and ______.",
+      "options": [
+        "Insert and Delete",
+        "Push and Pop",
+        "Enqueue and Dequeue",
+        "Add and Remove"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Stack is a type of ______ data structure.",
+      "options": [
+        "Linear",
+        "Non-linear",
+        "Hierarchical",
+        "Graph-based"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A stack is implemented using ______ or ______.",
+      "options": [
+        "Array and Linked List",
+        "Queue and Tree",
+        "Heap and Graph",
+        "Set and Map"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Stack overflow occurs when the stack is ______.",
+      "options": [
+        "Empty",
+        "Full",
+        "Partially filled",
+        "Uninitialized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Stack underflow occurs when trying to pop from an ______ stack.",
+      "options": [
+        "Empty",
+        "Overfilled",
+        "Partially filled",
+        "Corrupt"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The topmost element of a stack can be accessed using the ______ operation.",
+      "options": [
+        "Push",
+        "Pop",
+        "Peek",
+        "Enqueue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "If a stack has a maximum size of N, the top pointer for an empty stack is at ______.",
+      "options": [
+        "N",
+        "0",
+        "-1",
+        "N-1"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The time complexity of the push operation in a stack is ______.",
+      "options": [
+        "O(1)",
+        "O(N)",
+        "O(log N)",
+        "O(N^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "A stack can be used to evaluate expressions in ______ notation.",
+      "options": [
+        "Prefix",
+        "Infix",
+        "Postfix",
+        "All of the above"
+      ],
+      "answer": 4
+    }
+  ]
+  

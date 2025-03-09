@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Searching is the process of finding a specific ________ in a collection of data.",
+      "options": [
+        "value",
+        "array",
+        "function",
+        "class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "A contact list on your phone is an example of a ________ where searching is performed.",
+      "options": [
+        "file system",
+        "database",
+        "data collection",
+        "stack"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The two common methods of searching in an array are ________ and ________ search.",
+      "options": [
+        "Linear, Binary",
+        "Bubble, Selection",
+        "Insertion, Quick",
+        "Depth-First, Breadth-First"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "________ search checks each element of the array one by one until it finds the target value.",
+      "options": [
+        "Binary",
+        "Linear",
+        "Jump",
+        "Hash"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In Linear Search, the worst-case time complexity is ________.",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The best case for Linear Search occurs when the target is found at the ________ position.",
+      "options": [
+        "first",
+        "middle",
+        "last",
+        "random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Binary Search works only on a ________ array.",
+      "options": [
+        "unsorted",
+        "sorted",
+        "random",
+        "hashed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Binary Search follows the ________ and ________ strategy.",
+      "options": [
+        "Divide, Conquer",
+        "Sort, Swap",
+        "Split, Merge",
+        "Hash, Retrieve"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The time complexity of Binary Search in the worst case is ________.",
+      "options": [
+        "O(n)",
+        "O(1)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Binary Search is faster than Linear Search for ________ datasets.",
+      "options": [
+        "unsorted",
+        "small",
+        "sorted",
+        "unordered"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "If the middle element is smaller than the target in Binary Search, we search the ________ half.",
+      "options": [
+        "left",
+        "right",
+        "entire",
+        "random"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "In Linear Search, if the target is not found, the function returns ________.",
+      "options": [
+        "0",
+        "-1",
+        "null",
+        "infinity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Binary Search requires the array to be in ________ order.",
+      "options": [
+        "any",
+        "sorted",
+        "random",
+        "reverse"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "In the best case of Binary Search, the target is found in the ________ iteration.",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "last"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "If the target is greater than the middle element in Binary Search, we eliminate the ________ half.",
+      "options": [
+        "left",
+        "right",
+        "middle",
+        "entire"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "In Linear Search, the number of comparisons in the worst case is equal to ________.",
+      "options": [
+        "half the elements",
+        "all the elements",
+        "double the elements",
+        "one-fourth of elements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Binary Search is efficient for ________ datasets.",
+      "options": [
+        "small",
+        "unordered",
+        "large",
+        "empty"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "The primary advantage of Binary Search over Linear Search is its ________ speed.",
+      "options": [
+        "constant",
+        "quadratic",
+        "logarithmic",
+        "linear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Linear Search is most effective when the dataset is ________.",
+      "options": [
+        "sorted",
+        "small and unsorted",
+        "large",
+        "unordered and large"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Binary Search follows the approach of repeatedly dividing the search space into ________.",
+      "options": [
+        "two halves",
+        "three halves",
+        "four halves",
+        "equal quarters"
+      ],
+      "answer": 1
+    }
+  ]
+  

@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the _______ principle.",
+      "options": [
+        "First In, First Out (FIFO)",
+        "Last In, First Out (LIFO)",
+        "First Come, First Serve (FCFS)",
+        "Round Robin (RR)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The _______ operation is used to remove an element from a stack.",
+      "options": [
+        "Push",
+        "Pop",
+        "Peek",
+        "Insert"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Stacks are commonly used for _______ in list processing.",
+      "options": [
+        "sorting elements",
+        "storing elements in LIFO order",
+        "merging elements",
+        "copying elements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "One of the applications of stacks is in _______ operations.",
+      "options": [
+        "Undo/Redo",
+        "Sorting",
+        "Searching",
+        "File storage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Postfix notation eliminates the need for _______.",
+      "options": [
+        "operators",
+        "operands",
+        "parentheses",
+        "constants"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The notation where the operator comes after the operands is called _______.",
+      "options": [
+        "Infix",
+        "Prefix",
+        "Postfix",
+        "Hybrid"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The notation where the operator appears between operands is called _______.",
+      "options": [
+        "Infix",
+        "Prefix",
+        "Postfix",
+        "Mixed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The postfix notation for (A + B) * C is _______.",
+      "options": [
+        "A B C * +",
+        "A B + C *",
+        "A + B C *",
+        "A B C + *"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Postfix notation is preferred in computers because it eliminates the need for _______.",
+      "options": [
+        "sequential execution",
+        "data structures",
+        "parentheses",
+        "variables"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "In postfix evaluation, operands are first _______.",
+      "options": [
+        "pushed onto the stack",
+        "popped from the stack",
+        "sorted",
+        "discarded"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "After evaluating a postfix expression, the final result is _______.",
+      "options": [
+        "pushed onto the stack",
+        "popped from the stack",
+        "stored in memory",
+        "discarded"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Stacks are NOT used in _______.",
+      "options": [
+        "Reversing a list",
+        "Expression evaluation",
+        "Queue implementation",
+        "Backtracking algorithms"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "The result of evaluating the postfix expression 6 2 + 5 * 8 4 / - is _______.",
+      "options": [
+        "38",
+        "40",
+        "10",
+        "20"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Postfix notation is also known as _______.",
+      "options": [
+        "Algebraic Notation",
+        "Reverse Polish Notation",
+        "Mathematical Notation",
+        "Hybrid Notation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The operator with the highest precedence in arithmetic expressions is _______.",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "^"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "The precedence of the multiplication (*) operator is _______.",
+      "options": [
+        "1 (Lowest)",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "A real-world application of stacks is found in _______.",
+      "options": [
+        "Train scheduling",
+        "Undo/Redo operations",
+        "File compression",
+        "Disk fragmentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "When a right parenthesis ')' is encountered in infix-to-postfix conversion, all operators are popped until a _______ is found.",
+      "options": [
+        "+",
+        "-",
+        "(",
+        "*"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "A key benefit of postfix notation is that it requires no _______.",
+      "options": [
+        "spaces",
+        "parentheses",
+        "operators",
+        "variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Using stacks for postfix evaluation makes expression evaluation _______.",
+      "options": [
+        "faster",
+        "slower",
+        "more complex",
+        "inefficient"
+      ],
+      "answer": 1
+    }
+  ]
+  

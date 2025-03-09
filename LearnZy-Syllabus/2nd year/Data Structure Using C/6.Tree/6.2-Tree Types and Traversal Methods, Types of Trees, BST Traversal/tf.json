@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A tree is a hierarchical data structure used to represent relationships between elements.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a General Tree, each node can have at most two children.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "In a Binary Tree, each node can have at most two children.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A Binary Search Tree (BST) follows the rule that the right child contains smaller values than the parent.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "A Binary Search Tree (BST) allows efficient searching and sorting operations.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Pre-Order Traversal visits the left child before the root.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "In-Order Traversal results in nodes being visited in sorted order for a Binary Search Tree.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Post-Order Traversal follows the sequence Left → Right → Root.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Level-Order Traversal visits nodes level by level from top to bottom.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "If a Binary Tree has N nodes, it always has N edges.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "A Binary Tree is a type of Graph.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "A Full Binary Tree is a tree where every node has either 0 or 2 children.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "A Complete Binary Tree is a tree where every level is completely filled except possibly the last level.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A Heap is a special type of Binary Tree used in priority queues.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Post-Order Traversal is commonly used in expression evaluation.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Binary Search Trees store duplicate values in both left and right subtrees.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "A Binary Search Tree with a single node has a height of 1.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "A tree with only one node is called a Singleton Tree.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Tree traversal can only be done using recursive methods.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "A tree with N nodes will always have N-1 edges.",
+      "answer": true
+    }
+  ]
+  

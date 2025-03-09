@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the Last In, First Out (LIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "A queue follows the First In, First Out (FIFO) principle.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Elements are added at the front of the queue.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Elements are added at the rear of the queue.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Elements are removed from the rear of the queue.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Elements are removed from the front of the queue.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A queue is a non-linear data structure.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A queue is a linear data structure.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The enqueue operation is used to remove an element from the queue.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The dequeue operation is used to remove an element from the queue.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "The default initial value of front and rear in an empty queue is -1.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Queue overflow occurs when trying to add an element to a full queue.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Queue underflow occurs when trying to remove an element from an empty queue.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A queue can store elements in a random order.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "The front pointer in a queue points to the element that will be removed next.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "The rear pointer in a queue points to the element that was added last.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "A queue allows elements to be inserted and removed from both ends.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "A deque is a special type of queue that allows insertion and deletion from both ends.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "In an array-based queue, elements shift left after a dequeue operation.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Circular queues help in avoiding wastage of memory in an array-based queue.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "A queue can be implemented using both arrays and linked lists.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "The time complexity of enqueue and dequeue operations in a queue is O(n).",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "The time complexity of enqueue and dequeue operations in a queue is O(1).",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Priority queues follow the FIFO principle strictly.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "In a priority queue, elements are dequeued based on priority rather than order of insertion.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Queues are widely used in scheduling processes in operating systems.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The circular queue is the most memory-efficient type of queue.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "The rear pointer moves forward after every enqueue operation.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "The front pointer moves forward after every enqueue operation.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Deque is an abbreviation for 'Double-Ended Queue'.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "A stack and a queue work in the same way.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "A queue allows insertion only at the front.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "A queue allows removal only from the front.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Queues are useful in breadth-first search (BFS) algorithms.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "A stack follows FIFO order.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "A stack follows LIFO order.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "A queue can be used for managing requests in a printer spooler.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "In a linked list implementation of a queue, the front and rear pointers are always NULL.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "A circular queue has a fixed size but uses memory efficiently.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "A normal queue allows insertion and deletion from both ends.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "Circular queues are a type of linear data structure.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "A queue can store heterogeneous data types.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "In a priority queue, elements are dequeued in the order they were enqueued.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "Circular queues can be implemented using arrays.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "A double-ended queue (deque) allows insertion and deletion only from the front.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "A circular queue prevents memory wastage by connecting the rear to the front.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Dequeues follow the FIFO principle.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "Queues are used in handling requests on a single shared resource, like CPU scheduling.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "An empty queue has both front and rear pointing to NULL.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "A queue can have an infinite size if implemented using a linked list.",
+      "answer": true
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A Singly Linked List consists of nodes, where each node contains ______ and a pointer to the next node.",
+      "options": [
+        "a reference",
+        "an integer",
+        "a character",
+        "data"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "The last node in a Singly Linked List points to ______.",
+      "options": [
+        "the previous node",
+        "NULL",
+        "the head node",
+        "itself"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "To create a Singly Linked List, memory is allocated dynamically using ______.",
+      "options": [
+        "malloc()",
+        "new()",
+        "calloc()",
+        "free()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A new node is inserted at the beginning by updating the ______ pointer.",
+      "options": [
+        "tail",
+        "head",
+        "middle",
+        "previous"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Inserting a node at the end requires traversing the list until we find ______.",
+      "options": [
+        "the head",
+        "the middle",
+        "the last node",
+        "the second node"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "To delete a node, we must update the ______ pointer to skip the node to be deleted.",
+      "options": [
+        "head",
+        "previous node's next",
+        "tail",
+        "NULL"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The function used to free dynamically allocated memory in C is ______.",
+      "options": [
+        "delete()",
+        "free()",
+        "remove()",
+        "deallocate()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A node is searched in a Singly Linked List by ______ through each node.",
+      "options": [
+        "skipping",
+        "traversing",
+        "reversing",
+        "sorting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If a node is deleted and memory is not freed, it causes a ______.",
+      "options": [
+        "syntax error",
+        "memory leak",
+        "segmentation fault",
+        "infinite loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "To print all nodes in a linked list, we use a ______ loop.",
+      "options": [
+        "for",
+        "do-while",
+        "while",
+        "switch"
+      ],
+      "answer": 3
+    }
+  ]
+  

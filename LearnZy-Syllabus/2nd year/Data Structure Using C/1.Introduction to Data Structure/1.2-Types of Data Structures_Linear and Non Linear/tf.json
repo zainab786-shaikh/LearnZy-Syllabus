@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "question": "Linear data structures store elements sequentially, one after another.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "A stack follows the First In, First Out (FIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "An array is a fixed-size collection of elements stored in contiguous memory.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A queue allows insertion from both ends but deletion from only one end.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Non-linear data structures follow a sequential arrangement of elements.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "A graph consists of nodes connected by edges.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A family tree is an example of a queue data structure.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A linked list is a collection of nodes where each node contains data and a reference to the next node.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A queue at a ticket counter follows the Last In, First Out (LIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A hash table is used to store key-value pairs for quick lookup.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "A stack allows insertions and deletions only from the top.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "A tree has a hierarchical structure where each node may have child nodes.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Graphs are used to represent relationships, such as social networks.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A queue follows the Last In, First Out (LIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Stacks are commonly used in function calls and undo operations.",
+      "answer": true
+    }
+  ]
+  

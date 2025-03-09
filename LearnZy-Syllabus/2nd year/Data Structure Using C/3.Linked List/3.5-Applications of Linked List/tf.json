@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Linked lists allow dynamic memory allocation, meaning their size does not need to be defined in advance.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Arrays are more flexible than linked lists when it comes to inserting and deleting elements.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "A linked list consists of nodes, where each node contains data and a pointer to the next node.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Stacks and queues cannot be implemented using linked lists.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "In a stack implemented using a linked list, the last element added is the first one to be removed.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A doubly linked list is used to implement web browser history navigation.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Hash tables use linked lists to handle collisions when two keys have the same hash value.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Music playlists are commonly implemented using singly linked lists.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "In an undo/redo system, actions are stored using a queue-based structure.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Operating systems use linked lists to manage memory allocation and fragmentation.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "A circular linked list is commonly used in operating system scheduling algorithms.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Linked lists can shrink or grow as needed, unlike arrays which have a fixed size.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "The front of a queue implemented with a linked list is called the top.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "In a linked list, memory allocation is contiguous like in arrays.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Linked lists are inefficient in scenarios where random access is required.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "A node in a doubly linked list contains two pointers.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "In a singly linked list, each node has a pointer to the previous node.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "A stack can be implemented using a linked list by inserting and deleting elements only from the head.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Queues are implemented using the Last In, First Out (LIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "In a circular linked list, the last node points back to the first node.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Linked lists are ideal for applications requiring frequent insertions and deletions.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "In a singly linked list, traversal is only possible in one direction.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "A linked list cannot be used to implement hash tables.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "Social media friend connections can be represented using a graph where linked lists store relationships.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "A doubly linked list can be traversed in both forward and backward directions.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "A linked list uses less memory per node compared to an array because it doesn't store pointers.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "A singly linked list is more memory-efficient than a doubly linked list.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Web browsers use linked lists to store and navigate browsing history.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "A linked list node contains both data and an address of the next node.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Circular linked lists are never used in real-world applications.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "The time complexity of inserting an element at the beginning of a linked list is O(1).",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "The time complexity of accessing an element at a random position in a linked list is O(1).",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "Linked lists are more efficient than arrays for direct indexing operations.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Undo/Redo functionality in text editors is implemented using linked lists.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "In a hash table, a linked list can be used to store multiple values that hash to the same index.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "A doubly linked list uses two pointers per node, increasing memory usage compared to a singly linked list.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "A circular linked list can be used to implement a round-robin scheduling algorithm.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Stacks operate based on the First In, First Out (FIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "A circular linked list has a NULL pointer at the end of the list.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Inserting an element at the end of a linked list requires traversal in the worst case.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Deleting a node from the middle of a singly linked list requires modifying at most one pointer.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "A linked list is always more memory-efficient than an array.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "A circular doubly linked list allows traversal in both directions without a NULL reference.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Adding an element to a linked list is always O(1) regardless of position.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "A linked list does not support direct access to elements via indexing.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "A linked list is a linear data structure.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Hash tables are used in databases and search engines to store key-value pairs efficiently.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Linked lists can be used to efficiently implement a graph's adjacency list representation.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "A queue implemented with a linked list supports efficient O(1) insertion and deletion.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "In linked lists, memory is allocated in contiguous blocks.",
+      "answer": false
+    }
+  ]
+  

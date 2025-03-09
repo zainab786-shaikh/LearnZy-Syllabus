@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "________ is the process of visiting each element in a data structure exactly once.",
+      "options": [
+        "Insertion",
+        "Deletion",
+        "Traversing",
+        "Sorting"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Insertion is the operation of ________ a new element into a data structure.",
+      "options": [
+        "removing",
+        "adding",
+        "sorting",
+        "accessing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In an array, deletion involves removing an element and then ________ the remaining elements to maintain order.",
+      "options": [
+        "keeping them as they are",
+        "shifting",
+        "duplicating",
+        "sorting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The operation that allows accessing each element of a data structure is called ________.",
+      "options": [
+        "Insertion",
+        "Deletion",
+        "Traversing",
+        "Merging"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "If an element is inserted in the middle of an array, the elements after it must be ________.",
+      "options": [
+        "removed",
+        "shifted",
+        "duplicated",
+        "replaced"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "To delete an element from an array, you need to shift the remaining elements to the ________.",
+      "options": [
+        "left",
+        "right",
+        "top",
+        "bottom"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The process of accessing elements of an array one by one is called ________.",
+      "options": [
+        "Insertion",
+        "Traversal",
+        "Deletion",
+        "Modification"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In an array, the last element has no ________.",
+      "options": [
+        "predecessor",
+        "successor",
+        "address",
+        "value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If you want to insert an element at the beginning of an array, all other elements must be ________ one position.",
+      "options": [
+        "shifted left",
+        "shifted right",
+        "replaced",
+        "removed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "To delete an element from an array, we must first identify its ________.",
+      "options": [
+        "value",
+        "position",
+        "size",
+        "type"
+      ],
+      "answer": 2
+    }
+  ]
+  

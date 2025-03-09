@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the FIFO (First In, First Out) principle.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a queue, elements can only be inserted at the front.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "A queue is considered empty when the front and rear pointers are equal.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "A circular queue allows efficient memory usage by reusing vacant spaces at the front.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "A priority queue always follows the FIFO principle.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "A queue can be implemented using arrays or linked lists.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The rear pointer in a queue moves forward when an element is deleted.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "A double-ended queue (Deque) allows insertion and deletion from both ends.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A stack and a queue are identical data structures.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A queue can never be full if it is implemented using a linked list.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "In a queue, deletion is performed from the rear end.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "A queue data structure is commonly used in task scheduling systems.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "A priority queue removes elements in the order they were inserted.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "A circular queue prevents overflow if there is available space at the front.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "A linear queue allows elements to be inserted from any position.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "The main disadvantage of a linear queue is that it may lead to memory wastage.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "A queue can be used to simulate customer service lines.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "A queue can be used in operating systems for CPU scheduling.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Deque stands for Double Queue.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "A circular queue is also known as a ring buffer.",
+      "answer": true
+    }
+  ]
+  

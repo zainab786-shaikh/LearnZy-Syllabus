@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Recursion is a technique where a function ________ itself to solve a problem.",
+      "options": [
+        "modifies",
+        "calls",
+        "removes",
+        "ignores"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "A function using recursion must have a ________ condition to stop execution.",
+      "options": [
+        "start",
+        "loop",
+        "base",
+        "constant"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Recursion follows the ________ principle in memory allocation.",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "FILO"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Each recursive function call is stored in the ________ until it is resolved.",
+      "options": [
+        "queue",
+        "array",
+        "stack",
+        "list"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "In recursion, a function keeps calling itself until it reaches the ________ condition.",
+      "options": [
+        "loop",
+        "return",
+        "stack",
+        "base"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "Recursion is commonly used in problems that can be divided into ________ subproblems.",
+      "options": [
+        "smaller",
+        "larger",
+        "independent",
+        "unrelated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Factorial of a number can be calculated using ________ recursion.",
+      "options": [
+        "direct",
+        "indirect",
+        "iterative",
+        "reverse"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The Fibonacci sequence is defined as F(n) = F(n-1) + F(n-2) with F(0) = ________.",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The Tower of Hanoi problem involves moving disks using ________ rods.",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Recursive functions can lead to ________ errors if the base case is not properly defined.",
+      "options": [
+        "memory leak",
+        "stack overflow",
+        "segmentation fault",
+        "syntax"
+      ],
+      "answer": 2
+    }
+  ]
+  

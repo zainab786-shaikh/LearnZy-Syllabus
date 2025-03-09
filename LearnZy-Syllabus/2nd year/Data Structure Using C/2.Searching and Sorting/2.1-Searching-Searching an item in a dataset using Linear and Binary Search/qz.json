@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is searching in data structures?",
+      "options": [
+        "Finding a specific value in a collection",
+        "Sorting elements in ascending order",
+        "Deleting an element from an array",
+        "Inserting an element at a specific position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a searching algorithm?",
+      "options": [
+        "Linear Search",
+        "Binary Search",
+        "Bubble Search",
+        "Interpolation Search"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Linear search is also known as ________.",
+      "options": [
+        "Sequential Search",
+        "Binary Search",
+        "Hashing",
+        "Sorting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the time complexity of Linear Search in the worst case?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which searching algorithm requires a sorted array?",
+      "options": [
+        "Linear Search",
+        "Binary Search",
+        "Hashing",
+        "Depth First Search"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Binary Search is based on which strategy?",
+      "options": [
+        "Divide and Conquer",
+        "Greedy Algorithm",
+        "Backtracking",
+        "Brute Force"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In Linear Search, how many elements do we check in the worst case?",
+      "options": [
+        "One element",
+        "Half of the elements",
+        "All elements",
+        "Two elements"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the best-case time complexity of Linear Search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is the best-case time complexity of Binary Search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which real-life example best represents Linear Search?",
+      "options": [
+        "Looking for a word in a dictionary",
+        "Checking every pocket in a bag to find a pen",
+        "Using Google to search for a keyword",
+        "Finding the shortest route in a map"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which real-life example best represents Binary Search?",
+      "options": [
+        "Checking every page in a book to find a topic",
+        "Finding a name in a sorted contact list",
+        "Counting the number of students in a classroom",
+        "Shuffling a deck of cards"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What happens if the target element is not found in Binary Search?",
+      "options": [
+        "The algorithm keeps searching indefinitely",
+        "The search space is reduced to zero, and it returns -1",
+        "The search starts again from the beginning",
+        "It sorts the array and then searches again"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which algorithm is more efficient for large sorted datasets?",
+      "options": [
+        "Linear Search",
+        "Binary Search",
+        "Bubble Sort",
+        "Selection Sort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which algorithm is better for small datasets or unsorted data?",
+      "options": [
+        "Linear Search",
+        "Binary Search",
+        "Quick Sort",
+        "Merge Sort"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "How many comparisons does Binary Search make in the worst case for an array of size n?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What is the first step in Binary Search?",
+      "options": [
+        "Compare with the last element",
+        "Find the middle element",
+        "Sort the array",
+        "Check if the target is at the first position"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "If the middle element in Binary Search is smaller than the target, what do we do next?",
+      "options": [
+        "Search the left half",
+        "Search the right half",
+        "Restart the search",
+        "Stop the search"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What will be the number of comparisons in Binary Search for an array of 16 elements in the worst case?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which data structure is best suited for Binary Search?",
+      "options": [
+        "Unordered List",
+        "Stack",
+        "Queue",
+        "Sorted Array"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "What is returned when an element is found in a search algorithm?",
+      "options": [
+        "The index of the element",
+        "A boolean value",
+        "The entire array",
+        "A sorted version of the array"
+      ],
+      "answer": 1
+    }
+  ]
+  

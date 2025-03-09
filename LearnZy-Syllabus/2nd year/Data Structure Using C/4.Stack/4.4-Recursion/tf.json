@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "Recursion is a technique where a function calls itself to solve a problem.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "A recursive function does not need a base condition to terminate.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Each recursive call is stored in the stack until it is resolved.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Recursion follows the First In, First Out (FIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Recursion can be used to solve problems like factorial and Fibonacci sequence.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Recursive functions use more memory than iterative functions because of stack usage.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A function can call itself indirectly through another function, which is known as indirect recursion.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Recursion is always more efficient than iteration.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "In the Fibonacci sequence, F(n) = F(n-1) + F(n-2) with base cases F(0) = 0 and F(1) = 1.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The Tower of Hanoi problem cannot be solved using recursion.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Stack overflow can occur if a recursive function calls itself indefinitely.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Recursion is never used in sorting algorithms.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "The base case in a recursive function determines when the recursion stops.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Recursive functions can always be converted into iterative solutions.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Mutual recursion occurs when two functions call each other recursively.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Recursive functions do not use the call stack for execution.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Merge Sort and Quick Sort are examples of algorithms that use recursion.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "The base case is optional in a recursive function.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Recursion is useful for solving problems that can be broken down into smaller subproblems.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Recursive algorithms are never used in tree traversal problems.",
+      "answer": false
+    }
+  ]
+  

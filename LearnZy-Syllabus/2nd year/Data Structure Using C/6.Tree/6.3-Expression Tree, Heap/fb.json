@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "question": "An Expression Tree is a binary tree used to represent _________.",
+      "options": [
+        "Mathematical expressions",
+        "Database structures",
+        "Network topologies",
+        "Sorting algorithms"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In an Expression Tree, operators are stored in ______ nodes.",
+      "options": [
+        "Leaf",
+        "Root",
+        "Internal",
+        "All"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "In an Expression Tree, operands (numbers or variables) are stored in ______ nodes.",
+      "options": [
+        "Root",
+        "Internal",
+        "Leaf",
+        "All"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "To evaluate an Expression Tree, we use ______ traversal.",
+      "options": [
+        "Preorder",
+        "Inorder",
+        "Postorder",
+        "Level-order"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "In postorder traversal, the nodes are visited in the order ______.",
+      "options": [
+        "Root → Left → Right",
+        "Left → Root → Right",
+        "Left → Right → Root",
+        "Right → Root → Left"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The root of an Expression Tree represents the ______ operator.",
+      "options": [
+        "First",
+        "Last",
+        "Main",
+        "Sub"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "For the expression (10 + 2) * 6, the root node of the Expression Tree is ______.",
+      "options": [
+        "+",
+        "6",
+        "*",
+        "10"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The Expression Tree for (5 + 3) * (8 - 2) has ______ as its left child.",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The Heap data structure is a type of ______ tree.",
+      "options": [
+        "Binary",
+        "Ternary",
+        "AVL",
+        "B-Tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "A Heap is always a ______ Binary Tree.",
+      "options": [
+        "Complete",
+        "Full",
+        "Skewed",
+        "Balanced"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "A Max Heap always has the _______ element at the root.",
+      "options": [
+        "Smallest",
+        "Median",
+        "Largest",
+        "Random"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "A Min Heap always has the _______ element at the root.",
+      "options": [
+        "Smallest",
+        "Largest",
+        "Median",
+        "Random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "In a Max Heap, each parent node has a ______ value than its children.",
+      "options": [
+        "Smaller",
+        "Greater",
+        "Equal",
+        "Random"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "In a Min Heap, each parent node has a ______ value than its children.",
+      "options": [
+        "Greater",
+        "Smaller",
+        "Equal",
+        "Random"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The process of restructuring a heap after insertion or deletion is called ______.",
+      "options": [
+        "Heapify",
+        "Sorting",
+        "Balancing",
+        "Traversing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The two main operations in a heap are insertion and _______.",
+      "options": [
+        "Searching",
+        "Deletion",
+        "Traversal",
+        "Swapping"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In a Max Heap, the largest element is always at the ______.",
+      "options": [
+        "Leaf",
+        "Middle",
+        "Root",
+        "Random"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "In a Min Heap, the smallest element is always at the ______.",
+      "options": [
+        "Root",
+        "Leaf",
+        "Middle",
+        "Random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Heap insertion follows the ______ property to maintain the heap structure.",
+      "options": [
+        "Heapify-up",
+        "Heapify-down",
+        "Sort",
+        "Balance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Heap deletion follows the ______ property to maintain the heap structure.",
+      "options": [
+        "Heapify-up",
+        "Heapify-down",
+        "Sort",
+        "Balance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Complete the traversal order for postorder evaluation of an expression tree: Left → ______ → Root.",
+      "options": [
+        "Right",
+        "Left",
+        "Root",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Complete the expression tree evaluation: If the expression is (7 - 4) * (5 + 2), the final answer is ______.",
+      "options": [
+        "18",
+        "21",
+        "35",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Complete the heap property: In a Max Heap, the parent node is always ______ than its children.",
+      "options": [
+        "Greater",
+        "Smaller",
+        "Equal",
+        "Unordered"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Complete the heap property: In a Min Heap, the parent node is always ______ than its children.",
+      "options": [
+        "Greater",
+        "Smaller",
+        "Equal",
+        "Unordered"
+      ],
+      "answer": 2
+    }
+  ]
+  

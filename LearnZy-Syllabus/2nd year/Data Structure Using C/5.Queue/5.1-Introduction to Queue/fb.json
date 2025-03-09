@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the ________ principle.",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "Random Access",
+        "Priority-Based"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The operation of adding an element to the queue is called ________.",
+      "options": [
+        "Dequeue",
+        "Enqueue",
+        "Push",
+        "Pop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In a queue implemented using an array, the two pointers used are ________ and ________.",
+      "options": [
+        "Top, Bottom",
+        "Start, End",
+        "Front, Rear",
+        "Left, Right"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "If a queue is implemented using a linked list, each node contains ________ and ________.",
+      "options": [
+        "Data, Next Pointer",
+        "Front, Rear",
+        "Key, Value",
+        "Stack, Heap"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "When a queue is full and we try to insert an element, it results in a ________ condition.",
+      "options": [
+        "Underflow",
+        "Overflow",
+        "Runtime Error",
+        "Segmentation Fault"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In an array-based queue, when elements are dequeued, empty spaces are created at the ________.",
+      "options": [
+        "Front",
+        "Rear",
+        "Middle",
+        "Both Ends"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "A queue implemented using a linked list does not require ________ memory allocation.",
+      "options": [
+        "Fixed",
+        "Dynamic",
+        "Constant",
+        "Temporary"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "A circular queue is used to overcome the problem of ________ in an array-based queue.",
+      "options": [
+        "Memory Wastage",
+        "Underflow",
+        "Data Loss",
+        "Stack Overflow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The function used to check if a queue is empty is called ________.",
+      "options": [
+        "isFull()",
+        "isEmpty()",
+        "checkQueue()",
+        "isAvailable()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A queue is commonly used in ________ for scheduling processes.",
+      "options": [
+        "Operating Systems",
+        "Database Management",
+        "Machine Learning",
+        "Image Processing"
+      ],
+      "answer": 1
+    }
+  ]
+  

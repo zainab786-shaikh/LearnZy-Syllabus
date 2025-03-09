@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the Last In, First Out (LIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "In an array-based queue, the front pointer points to the first element in the queue.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A linked list implementation of a queue requires a fixed size.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The enqueue operation adds an element to the rear of the queue.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "A queue is an example of an Abstract Data Type (ADT).",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "In a queue, elements are removed from the rear.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "A circular queue helps to efficiently utilize memory by reusing empty spaces.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "In a linked list-based queue, each node contains data and a pointer to the next node.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The ‘isFull()’ operation is used in both array and linked list implementations of a queue.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Queues are commonly used in process scheduling and task management.",
+      "answer": true
+    }
+  ]
+  

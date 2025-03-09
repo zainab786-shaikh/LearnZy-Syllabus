@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "A tree is a ________ data structure used to represent relationships between elements.",
+      "options": [
+        "linear",
+        "hierarchical",
+        "graph-based",
+        "sequential"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a General Tree, each node can have ________ number of children.",
+      "options": [
+        "only two",
+        "only one",
+        "any",
+        "exactly three"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "In a Binary Tree, each node can have at most ________ children.",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The two types of children in a Binary Tree are ________ and ________.",
+      "options": [
+        "first, second",
+        "top, bottom",
+        "left, right",
+        "up, down"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Binary Search Tree (BST) follows the rule that the left child contains ________ values than the parent.",
+      "options": [
+        "larger",
+        "equal",
+        "smaller",
+        "random"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In a Binary Search Tree (BST), the right child contains ________ values than the parent.",
+      "options": [
+        "larger",
+        "smaller",
+        "equal",
+        "random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "A Binary Search Tree (BST) is useful for ________ operations.",
+      "options": [
+        "searching",
+        "sorting",
+        "both searching and sorting",
+        "none of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The process of visiting each node in a tree is called ________.",
+      "options": [
+        "traversing",
+        "sorting",
+        "mapping",
+        "indexing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "In In-Order Traversal, nodes are visited in the sequence ________.",
+      "options": [
+        "Root → Left → Right",
+        "Left → Root → Right",
+        "Right → Root → Left",
+        "Right → Left → Root"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In Pre-Order Traversal, the ________ node is visited first.",
+      "options": [
+        "leftmost",
+        "rightmost",
+        "root",
+        "last"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Post-Order Traversal follows the sequence ________.",
+      "options": [
+        "Left → Right → Root",
+        "Root → Left → Right",
+        "Right → Left → Root",
+        "Right → Root → Left"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The In-Order Traversal of the given tree will always result in nodes being visited in ________ order.",
+      "options": [
+        "decreasing",
+        "random",
+        "sorted",
+        "unsorted"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which traversal method is used in expression evaluation?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "Level-Order"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "If a Binary Tree has N nodes, how many edges does it have?",
+      "options": [
+        "N-1",
+        "N",
+        "N+1",
+        "N/2"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "A Binary Search Tree is mostly used in ________ operations.",
+      "options": [
+        "arithmetic",
+        "searching",
+        "indexing",
+        "image processing"
+      ],
+      "answer": 2
+    }
+  ]
+  

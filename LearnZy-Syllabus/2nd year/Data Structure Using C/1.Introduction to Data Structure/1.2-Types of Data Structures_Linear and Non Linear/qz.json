@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is a Linear Data Structure?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Stack",
+        "Hash Table"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Graph"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which data structure follows the First In, First Out (FIFO) principle?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a Linear Data Structure?",
+      "options": [
+        "Array",
+        "Linked List",
+        "Tree",
+        "Queue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which data structure is best suited for implementing a playlist where songs are linked?",
+      "options": [
+        "Stack",
+        "Array",
+        "Linked List",
+        "Queue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In which data structure do elements have a unique predecessor and successor, except for the first and last elements?",
+      "options": [
+        "Graph",
+        "Tree",
+        "Linear Data Structure",
+        "Hash Table"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which of the following data structures is hierarchical?",
+      "options": [
+        "Array",
+        "Tree",
+        "Queue",
+        "Stack"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A queue at a movie theatre ticket counter is an example of which data structure?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Graph",
+        "Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which data structure is used to store key-value pairs for quick lookup?",
+      "options": [
+        "Graph",
+        "Hash Table",
+        "Tree",
+        "Stack"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A social network where users are nodes and friendships are edges is an example of which data structure?",
+      "options": [
+        "Stack",
+        "Graph",
+        "Queue",
+        "Array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which data structure allows only the last added element to be accessed first?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Array",
+        "Hash Table"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "A family tree is an example of which data structure?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Stack",
+        "Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following data structures stores elements in contiguous memory locations?",
+      "options": [
+        "Graph",
+        "Tree",
+        "Array",
+        "Hash Table"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Which non-linear data structure consists of nodes connected by edges?",
+      "options": [
+        "Array",
+        "Graph",
+        "Stack",
+        "Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a characteristic of non-linear data structures?",
+      "options": [
+        "Elements are stored in a sequential manner",
+        "Each element has a unique predecessor and successor",
+        "Elements are connected in a hierarchical or networked manner",
+        "Elements follow the FIFO principle"
+      ],
+      "answer": 3
+    }
+  ]
+  

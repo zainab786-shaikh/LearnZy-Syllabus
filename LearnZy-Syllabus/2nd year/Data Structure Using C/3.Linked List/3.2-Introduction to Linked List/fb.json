@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "A linked list is a collection of nodes where each node contains data and a ________ to the next node.",
+      "options": [
+        "reference",
+        "pointer",
+        "address",
+        "index"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Unlike arrays, linked lists use ________ memory allocation, allowing dynamic resizing.",
+      "options": [
+        "static",
+        "sequential",
+        "dynamic",
+        "fixed"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The last node in a singly linked list points to ________.",
+      "options": [
+        "head",
+        "NULL",
+        "itself",
+        "first node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A node in a linked list consists of data and a ________ to the next node.",
+      "options": [
+        "variable",
+        "pointer",
+        "value",
+        "constant"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The first node of a linked list is called the ________ node.",
+      "options": [
+        "tail",
+        "middle",
+        "head",
+        "last"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In C, memory for a new linked list node is allocated using the ________ function.",
+      "options": [
+        "new()",
+        "malloc()",
+        "alloc()",
+        "memory()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In a linked list, inserting a node at the beginning requires modifying the ________ pointer.",
+      "options": [
+        "tail",
+        "head",
+        "null",
+        "middle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The time complexity for inserting a node at the beginning of a linked list is ________.",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "A ________ linked list allows traversal in both directions.",
+      "options": [
+        "singly",
+        "doubly",
+        "circular",
+        "static"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A circular linked list's last node points to the ________ node.",
+      "options": [
+        "head",
+        "tail",
+        "null",
+        "random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "In a singly linked list, each node has ________ pointer(s).",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "zero"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "In a doubly linked list, each node has ________ pointers.",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "zero"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "To delete a node in a linked list, you must modify the ________ pointer of the previous node.",
+      "options": [
+        "head",
+        "tail",
+        "next",
+        "null"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "The ________ function in C is used to release memory allocated to a linked list node.",
+      "options": [
+        "free()",
+        "delete()",
+        "clear()",
+        "dispose()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "In a circular linked list, the last node’s pointer is set to the ________ node.",
+      "options": [
+        "NULL",
+        "head",
+        "middle",
+        "tail"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "A linked list where the last node connects to the first node is called a ________ linked list.",
+      "options": [
+        "singly",
+        "doubly",
+        "circular",
+        "linear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "The process of visiting each node in a linked list is called ________.",
+      "options": [
+        "traversal",
+        "iteration",
+        "recursion",
+        "searching"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The head pointer in a linked list stores the address of the ________ node.",
+      "options": [
+        "last",
+        "first",
+        "middle",
+        "random"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "The main advantage of linked lists over arrays is ________ memory allocation.",
+      "options": [
+        "fixed",
+        "dynamic",
+        "static",
+        "sequential"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "To insert a node after a given node in a linked list, modify the ________ pointer of the given node.",
+      "options": [
+        "head",
+        "next",
+        "tail",
+        "null"
+      ],
+      "answer": 2
+    }
+  ]
+  

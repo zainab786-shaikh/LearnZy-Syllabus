@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A Singly Linked List consists of nodes where each node has a data field and a pointer to the next node.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a Singly Linked List, each node points to the previous node as well.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The last node of a Singly Linked List points to NULL.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Memory for nodes in a Singly Linked List is allocated dynamically using malloc().",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The head of a Singly Linked List always points to the last node.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Insertion in a Singly Linked List can be done only at the beginning.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "A new node can be inserted at the beginning, at the end, or in the middle of a Singly Linked List.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "To insert a node at the beginning, we need to update the head pointer.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "To insert a node at the end, we traverse the list to find the last node and update its next pointer.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "A Singly Linked List allows traversal in both forward and backward directions.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The deleteNode function removes a node from the list by updating the next pointer of the previous node.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "If the key to be deleted is in the first node, we update the head pointer to the next node.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "A Singly Linked List is more efficient than an array for random access of elements.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "The search function in a Singly Linked List returns 0 if the key is not found.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "The printList function is used to traverse and print all the elements of a Singly Linked List.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "The malloc() function is used to deallocate memory in a Singly Linked List.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Each node in a Singly Linked List contains a pointer that can store multiple addresses.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "To traverse a Singly Linked List, we start from the head and move to the next node until we reach NULL.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "A Singly Linked List cannot have duplicate values in its nodes.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "If a linked list has only one node, the head and the last node are the same.",
+      "answer": true
+    }
+  ]
+  

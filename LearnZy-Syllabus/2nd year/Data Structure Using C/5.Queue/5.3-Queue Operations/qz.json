@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What principle does a queue follow?",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "Random Order Processing",
+        "Priority Based Processing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What happens in the enqueue operation?",
+      "options": [
+        "An element is added at the front",
+        "An element is removed from the rear",
+        "An element is added at the rear",
+        "The queue is reversed"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What happens in the dequeue operation?",
+      "options": [
+        "An element is added at the rear",
+        "An element is removed from the front",
+        "The queue size is doubled",
+        "The queue is cleared"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which real-life example best describes a queue?",
+      "options": [
+        "A stack of plates",
+        "A line at a ticket counter",
+        "A bookshelf",
+        "A tree structure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which pointer is used to track the front of the queue?",
+      "options": [
+        "Top",
+        "Head",
+        "Front",
+        "Rear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which pointer is used to track the rear of the queue?",
+      "options": [
+        "Top",
+        "Head",
+        "Front",
+        "Rear"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "What condition indicates that the queue is full?",
+      "options": [
+        "front == -1",
+        "rear == SIZE - 1",
+        "front > rear",
+        "rear == front"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What condition indicates that the queue is empty?",
+      "options": [
+        "front == -1 or front > rear",
+        "rear == SIZE - 1",
+        "rear == front",
+        "front == SIZE - 1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What does the term 'queue overflow' mean?",
+      "options": [
+        "Trying to remove an element from an empty queue",
+        "Trying to add an element to a full queue",
+        "A queue with unlimited size",
+        "A queue with dynamic memory allocation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What does the term 'queue underflow' mean?",
+      "options": [
+        "Trying to remove an element from an empty queue",
+        "Trying to add an element to a full queue",
+        "A queue with unlimited size",
+        "A queue that is dynamically resized"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the default initial value of front and rear in an empty queue?",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "SIZE - 1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What happens to the front pointer after a dequeue operation?",
+      "options": [
+        "It moves forward",
+        "It moves backward",
+        "It remains unchanged",
+        "It is reset to -1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What happens to the rear pointer after an enqueue operation?",
+      "options": [
+        "It moves forward",
+        "It moves backward",
+        "It remains unchanged",
+        "It is reset to -1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "In which case does the front pointer reset to -1?",
+      "options": [
+        "After an enqueue operation",
+        "After an overflow occurs",
+        "When the queue becomes empty",
+        "When the queue is full"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Which C function is used to add an element to a queue?",
+      "options": [
+        "push()",
+        "enqueue()",
+        "insert()",
+        "append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which C function is used to remove an element from a queue?",
+      "options": [
+        "delete()",
+        "dequeue()",
+        "pop()",
+        "remove()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Which condition should be checked before performing an enqueue operation?",
+      "options": [
+        "If the queue is full",
+        "If the queue is empty",
+        "If front == rear",
+        "If front == SIZE - 1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Which condition should be checked before performing a dequeue operation?",
+      "options": [
+        "If the queue is full",
+        "If the queue is empty",
+        "If front == rear",
+        "If front == SIZE - 1"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "What is the time complexity of the enqueue operation in an array-based queue?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the time complexity of the dequeue operation in an array-based queue?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    }
+  ]
+  

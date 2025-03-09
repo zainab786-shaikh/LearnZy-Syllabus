@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What does LIFO stand for in the context of stacks?",
+      "options": [
+        "Last In, First Out",
+        "Last In, Last Out",
+        "First In, Last Out",
+        "First In, First Out"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which real-life example best illustrates a stack?",
+      "options": [
+        "Queue at a bus stop",
+        "Stack of plates",
+        "Line of people in a bank",
+        "Books on a shelf"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which operation adds an element to the stack?",
+      "options": [
+        "Pop",
+        "Peek",
+        "Push",
+        "Remove"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What happens when a stack is full and a push operation is attempted?",
+      "options": [
+        "Stack Underflow",
+        "Memory Leak",
+        "Stack Overflow",
+        "Data Corruption"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the initial value of the top pointer in an empty stack?",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "NULL"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which operation removes the top element from the stack?",
+      "options": [
+        "Push",
+        "Delete",
+        "Pop",
+        "Peek"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which function allows viewing the topmost element without removing it?",
+      "options": [
+        "isEmpty()",
+        "Peek()",
+        "Pop()",
+        "Push()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which condition leads to a stack underflow error?",
+      "options": [
+        "Pushing an element when the stack is full",
+        "Popping an element when the stack is empty",
+        "Checking the top element when the stack is empty",
+        "Using an incorrect index"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the maximum number of elements a stack can hold in an array-based implementation with SIZE=5?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "Unlimited"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What will be the value of `top` after performing three push operations on an initially empty stack?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 3
+    }
+  ]
+  

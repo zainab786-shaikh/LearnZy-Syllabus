@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Static memory allocation occurs at compile time.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Dynamic memory allocation occurs at compile time.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Static memory allocation uses stack memory.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Dynamic memory allocation uses stack memory.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Memory allocated using static allocation can be resized at runtime.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Dynamic memory allocation allows resizing of allocated memory at runtime.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Static memory allocation is generally faster than dynamic memory allocation.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Dynamic memory allocation is faster than static memory allocation.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Static memory allocation is more flexible than dynamic memory allocation.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Dynamic memory allocation is useful when the size of required memory is not known beforehand.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Variables with a fixed size, like int arr[10], use static memory allocation.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "malloc() is used in C to allocate memory dynamically.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Memory allocated using malloc() must be freed manually using free().",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Memory allocated using static allocation is automatically deallocated when a function exits.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Memory leaks can occur if dynamically allocated memory is not freed.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Static memory allocation can lead to memory waste if the declared size is too large.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Memory allocation using malloc() happens at compile time.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Dynamically allocated memory can be freed automatically by the system.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Heap memory is used for dynamic memory allocation.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Static memory allocation uses heap memory.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Stack memory is automatically managed and does not require manual deallocation.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Heap memory is automatically freed when a function exits.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "The function calloc() in C allocates memory and initializes it to zero.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Realloc() is used to reallocate previously allocated dynamic memory.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Static memory allocation allows programmers to allocate memory at runtime.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Dynamic memory allocation reduces memory waste compared to static allocation.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The memory allocated using static allocation remains constant throughout program execution.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Dynamic memory allocation is primarily used when the required memory size is fixed.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "free() function is used to deallocate statically allocated memory.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Dynamic memory allocation is preferred when working with large and flexible data structures like linked lists.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "malloc() and free() are built-in C functions for dynamic memory allocation and deallocation.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "If malloc() fails to allocate memory, it returns NULL.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Heap memory is limited and should be managed carefully to avoid fragmentation.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Static memory allocation can dynamically allocate memory during runtime.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Stack memory allocation can cause stack overflow if too many recursive calls are made.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Dynamically allocated memory is automatically released when a function ends.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "calloc() and malloc() both allocate memory, but calloc() initializes the allocated memory to zero.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "The main advantage of dynamic memory allocation is flexibility in managing memory usage.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Stack memory is more prone to fragmentation compared to heap memory.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "A pointer returned by malloc() must be cast to the appropriate data type.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Realloc() can decrease the size of a dynamically allocated memory block.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "Memory allocated using malloc() is initialized to zero by default.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "Using free() on an already freed pointer causes undefined behavior.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Static memory allocation can be used for dynamic data structures like linked lists.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "The new operator in C++ is equivalent to malloc() in C.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Dynamic memory allocation requires explicit deallocation to prevent memory leaks.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "If the required memory is not available, malloc() terminates the program.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "Heap memory allocation is slower compared to stack memory allocation.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Using uninitialized pointers in dynamic memory allocation can lead to segmentation faults.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Automatic variables in C are allocated memory dynamically.",
+      "answer": false
+    }
+  ]
+  

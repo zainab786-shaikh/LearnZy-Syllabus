@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A data structure is a way of organizing and storing data efficiently.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Data structures are only used in programming languages like C and Java.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Efficient data structures help improve the performance of algorithms.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Data structures do not affect the memory usage of a program.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "An array is an example of a data structure.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Data structures are only used for storing numbers and cannot store text.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Choosing the right data structure can help reduce the time complexity of an algorithm.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A good data structure allows faster data retrieval and modification.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Data structures are not useful in real-world applications.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A data structure can store multiple types of data like integers, characters, and strings.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "The main purpose of a data structure is to make data access more difficult.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Data structures are important in fields like databases, artificial intelligence, and networking.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Abstract Data Types (ADT) define only the implementation details of a data structure.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Data structures can be categorized as linear and non-linear types.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "A list is considered a type of data structure.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Data structures are only used in large-scale applications and not in small programs.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "A database management system (DBMS) uses data structures to store and organize data efficiently.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Every program needs a data structure to function properly.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Data structures are useful for searching, sorting, and managing data.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Data structures are only theoretical concepts and have no practical applications.",
+      "answer": false
+    }
+  ]
+  

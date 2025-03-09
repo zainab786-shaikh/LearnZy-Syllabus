@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is a Linked List?",
+      "options": [
+        "A collection of elements stored in continuous memory locations",
+        "A collection of elements connected using pointers",
+        "A type of array",
+        "A static data structure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a characteristic of a linked list?",
+      "options": [
+        "Dynamic memory allocation",
+        "Fixed size allocation",
+        "Efficient insertions/deletions",
+        "Flexible memory usage"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is a node in a linked list?",
+      "options": [
+        "A variable storing an integer",
+        "A memory location in an array",
+        "A unit containing data and a pointer",
+        "A type of function in C"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What does a node store in a linked list?",
+      "options": [
+        "Only data",
+        "Only pointer",
+        "Data and the address of the next node",
+        "The index of the next element"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which data structure is a linked list most commonly compared to?",
+      "options": [
+        "Array",
+        "Queue",
+        "Stack",
+        "Tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What does the pointer in a node store?",
+      "options": [
+        "Value of the node",
+        "Address of the next node",
+        "Index of the node",
+        "Size of the linked list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "How is an empty linked list represented in C?",
+      "options": [
+        "head = 0",
+        "head = NULL",
+        "head = -1",
+        "head = empty()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the last node in a linked list called?",
+      "options": [
+        "Tail node",
+        "Final node",
+        "Null node",
+        "End node"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is TRUE about linked lists?",
+      "options": [
+        "They are stored in contiguous memory locations",
+        "They allow dynamic memory allocation",
+        "They cannot grow in size after creation",
+        "They always have a fixed number of nodes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the key advantage of using a linked list over an array?",
+      "options": [
+        "Faster access time",
+        "Efficient memory usage with no wastage",
+        "Fixed-size allocation",
+        "Easier traversal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the role of a NULL pointer in a linked list?",
+      "options": [
+        "It indicates the start of the list",
+        "It stores the address of the previous node",
+        "It marks the end of the list",
+        "It keeps track of the number of nodes"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What is the output of the given C program that prints a linked list?",
+      "options": [
+        "Prints elements separated by commas",
+        "Prints elements in reverse order",
+        "Prints elements sequentially until NULL",
+        "Throws a compilation error"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which part of the node is responsible for linking nodes together?",
+      "options": [
+        "Data field",
+        "Next pointer",
+        "Address field",
+        "Index field"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which function is used in C to allocate memory dynamically for a linked list node?",
+      "options": [
+        "malloc()",
+        "alloc()",
+        "create()",
+        "new()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What will happen if the head pointer of a linked list is NULL?",
+      "options": [
+        "The list contains one node",
+        "The list contains multiple nodes",
+        "The list is empty",
+        "The list is invalid"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Which operation is the fastest in a linked list compared to an array?",
+      "options": [
+        "Insertion at the beginning",
+        "Accessing an element by index",
+        "Sorting elements",
+        "Finding the middle element"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What does a singly linked list node contain?",
+      "options": [
+        "Data and two pointers",
+        "Data and one pointer",
+        "Only data",
+        "Only a pointer"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "In a linked list, what is the worst-case time complexity for inserting a node at the beginning?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What happens when a node is deleted from a linked list?",
+      "options": [
+        "The entire list gets deleted",
+        "The pointer of the previous node is updated",
+        "The next node is automatically deleted",
+        "Memory cannot be freed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "What is the function of the head pointer in a linked list?",
+      "options": [
+        "Stores the last node's address",
+        "Indicates the number of nodes",
+        "Stores the address of the first node",
+        "Points to the NULL node"
+      ],
+      "answer": 3
+    }
+  ]
+  

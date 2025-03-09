@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "Memory allocation refers to how memory is assigned to _______ and data structures during program execution.",
+      "options": ["functions", "variables", "loops", "pointers"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Static memory allocation occurs at ________ time.",
+      "options": ["execution", "compile", "runtime", "manual"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Dynamic memory allocation occurs at ________ time.",
+      "options": ["execution", "compile", "link", "preprocessor"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Static memory allocation uses ______ memory.",
+      "options": ["heap", "stack", "register", "cache"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Dynamic memory allocation uses ______ memory.",
+      "options": ["stack", "heap", "register", "cache"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In static memory allocation, the memory size is _______ during execution.",
+      "options": ["fixed", "variable", "dynamic", "adjustable"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Dynamic memory allocation allows memory size to be _______ during execution.",
+      "options": ["constant", "fixed", "increased or decreased", "ignored"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Static memory allocation is generally ______ than dynamic memory allocation.",
+      "options": ["slower", "faster", "less efficient", "more complex"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Dynamic memory allocation is _______ compared to static memory allocation.",
+      "options": ["faster", "slower", "more rigid", "less flexible"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Static memory allocation is suitable for variables with a ______ size.",
+      "options": ["dynamic", "fixed", "variable", "unknown"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Dynamic memory allocation is used when the required memory size is ______ initially.",
+      "options": ["known", "fixed", "unknown", "constant"],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "A disadvantage of static memory allocation is potential memory _______.",
+      "options": ["efficiency", "waste", "shortage", "reduction"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Dynamic memory allocation uses functions like ______ in C.",
+      "options": ["malloc()", "sizeof()", "printf()", "scanf()"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To avoid memory leaks in dynamic memory allocation, we must use ______ in C.",
+      "options": ["alloc()", "free()", "delete", "clear()"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "In static memory allocation, memory is automatically freed when the ______ exits.",
+      "options": ["loop", "function", "pointer", "process"],
+      "answer": 2
+    }
+  ]
+  

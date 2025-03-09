@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that an Expression Tree is a type of binary tree used to evaluate mathematical expressions.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that an Expression Tree always has numbers in its internal nodes.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that in an Expression Tree, operators are stored in leaf nodes.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is false that the root of an Expression Tree always represents an operand.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that postorder traversal is commonly used to evaluate an Expression Tree.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that inorder traversal is used to directly compute the result of an Expression Tree.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that the expression (5 + 3) * (8 - 2) will have '*' as the root node in its Expression Tree.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that every Binary Tree is an Expression Tree.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that a Heap is always a complete binary tree.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that a Heap can have more than two children per node.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that a Max Heap always has the largest element at the root.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that a Min Heap stores its largest element at the root.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that in a Max Heap, each parent node has a value greater than or equal to its children.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that in a Min Heap, each parent node has a value greater than its children.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that Heap insertion follows the heapify-up process to maintain order.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that Heap deletion does not require heapify-down to maintain the heap structure.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that a Heap is an example of a priority queue.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that a Min Heap allows quick access to the largest element.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that Expression Trees and Heaps are both based on binary trees but serve different purposes.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that Expression Trees are used for sorting elements.",
+      "answer": true
+    }
+  ]
+  

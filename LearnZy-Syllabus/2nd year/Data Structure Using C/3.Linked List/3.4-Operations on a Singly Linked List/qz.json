@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What are the two main components of a node in a Singly Linked List?",
+      "options": [
+        "Data and Pointer",
+        "Data and Index",
+        "Key and Value",
+        "Address and Pointer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which function is used to allocate memory dynamically in C for a linked list node?",
+      "options": [
+        "calloc()",
+        "malloc()",
+        "alloc()",
+        "realloc()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the default value of the 'next' pointer in the last node of a Singly Linked List?",
+      "options": [
+        "Head",
+        "NULL",
+        "Self-reference",
+        "First Node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which operation is NOT supported in a Singly Linked List?",
+      "options": [
+        "Insertion at the beginning",
+        "Insertion at the end",
+        "Traversal in both directions",
+        "Deletion of a specific node"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the time complexity of inserting a node at the beginning of a Singly Linked List?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the time complexity of inserting a node at the end of a Singly Linked List when the tail pointer is not maintained?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n log n)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What does the following code do? \n Node* temp = head; \n while (temp != NULL) { printf(\"%d -> \", temp->data); temp = temp->next; } printf(\"NULL\");",
+      "options": [
+        "Inserts a node at the end",
+        "Deletes a node",
+        "Traverses and prints the list",
+        "Searches for an element"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements is TRUE about a Singly Linked List?",
+      "options": [
+        "A node can have multiple next pointers",
+        "Traversal is only possible in one direction",
+        "Memory allocation is static",
+        "Insertion is not possible at the beginning"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which operation is the most efficient in a Singly Linked List?",
+      "options": [
+        "Insertion at the beginning",
+        "Insertion at the end",
+        "Searching for a value",
+        "Traversing the list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which function is used to delete a dynamically allocated node in C?",
+      "options": [
+        "remove()",
+        "delete()",
+        "free()",
+        "dispose()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What happens when we try to delete a node that is not present in the linked list?",
+      "options": [
+        "It throws an error",
+        "It deletes the first node",
+        "It simply returns without modifying the list",
+        "It inserts the node at the beginning"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "How do you check if a linked list is empty?",
+      "options": [
+        "Check if head is NULL",
+        "Check if all nodes have NULL data",
+        "Check if tail is NULL",
+        "Check if head points to tail"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following best describes a Singly Linked List?",
+      "options": [
+        "A sequence of elements stored in contiguous memory locations",
+        "A data structure where each node points to the previous node",
+        "A collection of nodes where each node has data and a pointer to the next node",
+        "A tree-like structure with branches"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What is the main disadvantage of a Singly Linked List?",
+      "options": [
+        "Uses more memory than an array",
+        "Cannot insert at the beginning",
+        "Requires sorting",
+        "Cannot delete nodes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which pointer is used to traverse a linked list?",
+      "options": [
+        "Head",
+        "Temp",
+        "Tail",
+        "Middle"
+      ],
+      "answer": 2
+    }
+  ]
+  

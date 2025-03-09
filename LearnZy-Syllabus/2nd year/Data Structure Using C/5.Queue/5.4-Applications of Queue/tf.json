@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the First In, First Out (FIFO) principle.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a queue, the last element added is the first one to be removed.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Job scheduling in an operating system makes use of a queue.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "In Round Robin scheduling, a queue is not required.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "A printer queue processes documents in the order they were sent.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Keystrokes on a keyboard are processed using a stack data structure.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Mouse movement data is stored in a queue before being processed by the system.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Customer service call centers use queues to manage waiting calls.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A stack is the preferred data structure for handling multiple users accessing a website at the same time.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Routers and switches use queues to store and process data packets sequentially.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Cloud computing platforms do not use queues for resource management.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "A queue is used in ticket booking systems to process seat reservations.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "When booking tickets online, user requests are processed in a random order.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Online order processing in e-commerce follows a queue system.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "At a fast-food restaurant, customers are served randomly rather than in the order they arrived.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Queues help manage multiple downloads in web browsers efficiently.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "In networking, data packets are processed using a Last In, First Out (LIFO) approach.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Multithreading applications use queues to schedule tasks efficiently.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Queues are useful in system design, networking, and resource management.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "A queue is an unordered data structure that does not follow any sequence for processing elements.",
+      "answer": false
+    }
+  ]
+  

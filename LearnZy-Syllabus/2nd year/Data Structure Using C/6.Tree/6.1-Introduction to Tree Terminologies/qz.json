@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "question": "What is a tree in data structures?",
+      "options": [
+        "A linear data structure",
+        "A collection of nodes connected by edges",
+        "A type of array",
+        "A set of independent nodes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the topmost node of a tree called?",
+      "options": [
+        "Leaf node",
+        "Root node",
+        "Parent node",
+        "Child node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes the degree of a node?",
+      "options": [
+        "Number of children a node has",
+        "Number of parents a node has",
+        "Number of edges in the tree",
+        "Depth of a node"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The degree of a tree is defined as:",
+      "options": [
+        "The total number of nodes in the tree",
+        "The maximum degree of any node in the tree",
+        "The total number of edges in the tree",
+        "The level of the deepest node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements is true about the level of a node?",
+      "options": [
+        "It is always 0 for all nodes",
+        "It is the depth of the node from the root",
+        "It is equal to the height of the tree",
+        "It represents the number of children a node has"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is a leaf node?",
+      "options": [
+        "A node that has no parent",
+        "A node that has no children",
+        "A node that is at level 0",
+        "A node that has exactly one child"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What does the height of a tree represent?",
+      "options": [
+        "The number of nodes in the tree",
+        "The number of leaf nodes",
+        "The longest path from the root to a leaf node",
+        "The number of edges in the tree"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "In a tree, what is the in-degree of a node?",
+      "options": [
+        "The number of incoming edges to a node",
+        "The number of outgoing edges from a node",
+        "The number of children a node has",
+        "The total number of edges in the tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the out-degree of a node?",
+      "options": [
+        "The number of incoming edges to a node",
+        "The number of outgoing edges from a node",
+        "The level of the node",
+        "The depth of the tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an example of a path in a tree?",
+      "options": [
+        "A sequence of nodes from one node to another",
+        "The total number of edges in the tree",
+        "The number of children a node has",
+        "The total number of nodes in the tree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "A node that comes before another node in the hierarchy is called:",
+      "options": [
+        "Descendant",
+        "Leaf node",
+        "Ancestor",
+        "Child node"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "A node that comes after another node in the hierarchy is called:",
+      "options": [
+        "Ancestor",
+        "Descendant",
+        "Parent",
+        "Sibling"
+      ],
+      "answer": 2
+    }
+  ]
+  

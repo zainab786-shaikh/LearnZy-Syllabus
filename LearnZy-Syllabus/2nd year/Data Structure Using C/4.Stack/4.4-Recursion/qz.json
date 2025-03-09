@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is recursion in programming?",
+      "options": [
+        "A function calling itself",
+        "A function calling another function",
+        "A loop repeating itself",
+        "A function executed only once"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the base condition in recursion?",
+      "options": [
+        "A condition that stops recursion",
+        "A condition that repeats recursion infinitely",
+        "A condition that calls another function",
+        "A condition that initializes the recursion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which data structure does recursion use internally?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Heap"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which sorting algorithm uses recursion?",
+      "options": [
+        "Bubble Sort",
+        "Selection Sort",
+        "Merge Sort",
+        "Insertion Sort"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which of the following problems can be solved using recursion?",
+      "options": [
+        "Factorial calculation",
+        "Tower of Hanoi",
+        "Fibonacci series",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "What does the LIFO principle stand for?",
+      "options": [
+        "Last In First Out",
+        "Last In Fixed Out",
+        "Longest Index First Out",
+        "Least Indexed Function Output"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an advantage of recursion?",
+      "options": [
+        "Simpler code",
+        "Consumes less memory",
+        "Faster execution",
+        "Easier debugging"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT an application of recursion?",
+      "options": [
+        "Tree Traversal",
+        "Graph Traversal",
+        "Iterative Loops",
+        "Backtracking"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What will happen if a recursive function lacks a base condition?",
+      "options": [
+        "It will execute normally",
+        "It will run infinitely and cause a stack overflow",
+        "It will return zero",
+        "It will execute once and exit"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which mathematical problem is commonly solved using recursion?",
+      "options": [
+        "Finding the area of a rectangle",
+        "Solving quadratic equations",
+        "Calculating factorial",
+        "Solving linear equations"
+      ],
+      "answer": 3
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a Linear List also known as?",
+      "options": [
+        "Doubly Linked List",
+        "Singly Linked List",
+        "Circular Linked List",
+        "Array List"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is true about a Singly Linked List?",
+      "options": [
+        "Each node has two pointers",
+        "The last node points to NULL",
+        "The first node points to the last node",
+        "Nodes can be traversed in both directions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which memory function is used to allocate memory dynamically in C for a linked list?",
+      "options": [
+        "alloc()",
+        "calloc()",
+        "malloc()",
+        "free()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What does the last node of a Circular Linked List point to?",
+      "options": [
+        "NULL",
+        "Head Node",
+        "Middle Node",
+        "Itself"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an advantage of a Doubly Linked List?",
+      "options": [
+        "Requires less memory",
+        "Allows two-way traversal",
+        "Easier to implement than Singly Linked List",
+        "Has a single pointer per node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In a Singly Linked List, how do you know you've reached the last node?",
+      "options": [
+        "When next pointer is NULL",
+        "When prev pointer is NULL",
+        "When the value is -1",
+        "When it points to head"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of these is NOT an application of a Circular Linked List?",
+      "options": [
+        "Round-robin scheduling",
+        "Undo functionality",
+        "Memory allocation",
+        "Binary Search"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "What does a node in a Doubly Linked List contain?",
+      "options": [
+        "Data and one pointer",
+        "Data and two pointers",
+        "Only Data",
+        "Only Pointers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of these linked lists is best for applications requiring frequent insertions and deletions?",
+      "options": [
+        "Singly Linked List",
+        "Circular Linked List",
+        "Doubly Linked List",
+        "Array List"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which of these lists consumes the most memory per node?",
+      "options": [
+        "Singly Linked List",
+        "Circular Linked List",
+        "Doubly Linked List",
+        "Array"
+      ],
+      "answer": 3
+    }
+  ]
+  

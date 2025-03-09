@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the ________ principle for inserting and removing elements.",
+      "options": [
+        "LIFO",
+        "FIFO",
+        "Random Order",
+        "Priority-Based"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a queue, elements are inserted at the ________ end.",
+      "options": [
+        "front",
+        "middle",
+        "rear",
+        "random"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "A queue is considered full when the ________ reaches the maximum size.",
+      "options": [
+        "front",
+        "rear",
+        "middle",
+        "pointer"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A ________ queue allows elements to be removed from the front and inserted at the rear.",
+      "options": [
+        "priority",
+        "circular",
+        "linear",
+        "double-ended"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "To efficiently use memory in a queue, we implement a ________ queue.",
+      "options": [
+        "linear",
+        "circular",
+        "priority",
+        "linked"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A queue is said to be ________ when there is no element in it.",
+      "options": [
+        "empty",
+        "full",
+        "overflowing",
+        "invalid"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "If the rear of a circular queue reaches the last position and space is available at the front, it moves to the ________ position.",
+      "options": [
+        "rear",
+        "middle",
+        "front",
+        "last"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "A ________ queue allows elements to be inserted or removed from both ends.",
+      "options": [
+        "priority",
+        "double-ended (Deque)",
+        "circular",
+        "linear"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "A priority queue assigns ________ to each element before processing.",
+      "options": [
+        "time",
+        "priority value",
+        "memory",
+        "ID"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In an emergency room, a ________ queue is used to treat critical patients first.",
+      "options": [
+        "linear",
+        "priority",
+        "circular",
+        "FIFO"
+      ],
+      "answer": 2
+    }
+  ]
+  

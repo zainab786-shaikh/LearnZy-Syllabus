@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the First In, First Out (FIFO) principle.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "The push operation in a stack adds an element at the top.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A stack can be implemented using an array or a linked list.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Stack overflow occurs when trying to pop an element from an empty stack.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Stack underflow happens when the stack is full.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "The peek operation removes the top element from the stack.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The top pointer in an empty stack is initialized to -1.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "In a stack implemented using an array, the maximum number of elements is fixed.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A stack is considered an Abstract Data Type (ADT) because it is defined by its operations rather than its implementation.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "In C, the push function should check if the stack is empty before adding an element.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The pop operation can be performed even when the stack is empty.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "A stack is a non-linear data structure.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Stacks are used in function calls and expression evaluation.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "The main operations of a stack are push and pop.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "A stack allows access to elements in any order.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Stack overflow can be prevented by checking if the stack is full before pushing an element.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "In a stack, elements are inserted and deleted from the same end.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "A linked list implementation of a stack does not have a fixed size limit.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "The LIFO principle of a stack means the first element inserted is the first one removed.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "The display operation in a stack prints elements in the order they were inserted.",
+      "answer": false
+    }
+  ]
+  

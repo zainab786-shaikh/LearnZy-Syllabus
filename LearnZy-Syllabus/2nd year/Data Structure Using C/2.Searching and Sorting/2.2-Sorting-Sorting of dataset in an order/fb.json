@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "Sorting is the process of arranging data in a specific order such as ________ or descending.",
+      "options": ["ascending", "random", "unordered", "linked"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Sorting helps in making ________ faster, as seen in Binary Search.",
+      "options": ["searching", "deletion", "insertion", "compression"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Bubble Sort repeatedly compares and swaps ________ elements if they are in the wrong order.",
+      "options": ["adjacent", "random", "last", "middle"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The time complexity of Bubble Sort in the worst case is ________.",
+      "options": ["O(n²)", "O(n log n)", "O(n)", "O(1)"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In Selection Sort, the algorithm repeatedly selects the ________ element and places it at the correct position.",
+      "options": ["largest", "smallest", "random", "middle"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Insertion Sort builds the sorted array one element at a time by inserting each element at the ________ position.",
+      "options": ["random", "sorted", "unsorted", "last"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Quick Sort works by selecting a ________ and partitioning the array into smaller and larger elements.",
+      "options": ["median", "pivot", "random number", "last element"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Merge Sort follows the ________ approach to divide and conquer the sorting problem.",
+      "options": ["bottom-up", "top-down", "divide-and-conquer", "random"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Bubble Sort is considered ________ for large datasets due to its O(n²) complexity.",
+      "options": ["efficient", "inefficient", "fast", "optimal"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Selection Sort repeatedly finds the ________ element from the unsorted part and moves it to the sorted part.",
+      "options": ["largest", "smallest", "median", "random"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Insertion Sort is similar to sorting a deck of ________ in order.",
+      "options": ["coins", "playing cards", "books", "folders"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Quick Sort has an average time complexity of ________.",
+      "options": ["O(n²)", "O(n log n)", "O(n)", "O(log n)"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Merge Sort is particularly useful for sorting ________ datasets.",
+      "options": ["small", "medium", "large", "random"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "The best-case time complexity of Insertion Sort is ________ when the array is already sorted.",
+      "options": ["O(n)", "O(n²)", "O(n log n)", "O(1)"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The partition step in Quick Sort ensures that elements smaller than the pivot go to the ________.",
+      "options": ["left", "right", "top", "middle"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Merge Sort first divides the array into smaller parts and then ________ them back together.",
+      "options": ["merges", "splits", "deletes", "inserts"],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Bubble Sort requires ________ swaps in the worst case scenario.",
+      "options": ["few", "minimal", "maximum", "random"],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Selection Sort is often used when the dataset size is ________.",
+      "options": ["small", "large", "medium", "random"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The advantage of Quick Sort is its ________ efficiency for large datasets.",
+      "options": ["slow", "high", "low", "average"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Merge Sort is a ________ sorting algorithm.",
+      "options": ["stable", "unstable", "randomized", "inefficient"],
+      "answer": 1
+    }
+  ]
+  

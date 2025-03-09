@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the ________ principle.",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "FILO"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Stacks can be implemented using ________ or ________.",
+      "options": [
+        "array, linked list",
+        "queue, linked list",
+        "array, queue",
+        "tree, linked list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ________ operation inserts an element into the stack.",
+      "options": [
+        "pop",
+        "push",
+        "peek",
+        "delete"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The ________ operation removes the top element from the stack.",
+      "options": [
+        "pop",
+        "push",
+        "peek",
+        "delete"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In an array-based stack, the size of the stack is ________.",
+      "options": [
+        "fixed",
+        "dynamic",
+        "undefined",
+        "infinite"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "In a linked list-based stack, memory is allocated ________.",
+      "options": [
+        "statically",
+        "dynamically",
+        "in advance",
+        "randomly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A linked list-based stack requires extra memory for ________.",
+      "options": [
+        "data storage",
+        "pointers",
+        "heap allocation",
+        "garbage collection"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The function used to check if a stack is empty is ________.",
+      "options": [
+        "isFull()",
+        "isEmpty()",
+        "peek()",
+        "checkEmpty()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If a stack reaches its maximum size, it results in ________.",
+      "options": [
+        "stack underflow",
+        "heap corruption",
+        "stack overflow",
+        "memory leak"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "The process of viewing the top element without removing it is called ________.",
+      "options": [
+        "push",
+        "pop",
+        "peek",
+        "insert"
+      ],
+      "answer": 3
+    }
+  ]
+  

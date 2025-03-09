@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Bubble Sort compares and swaps adjacent elements if they are in the wrong order.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Selection Sort repeatedly selects the largest element and places it at the beginning.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Insertion Sort builds the sorted array one element at a time.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Merge Sort uses a divide-and-conquer approach to sort elements.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Quick Sort works by selecting a pivot and partitioning the array.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Bubble Sort is efficient for large datasets due to its O(n log n) complexity.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Insertion Sort performs best when the input array is nearly sorted.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Selection Sort swaps the first element with the largest element in each iteration.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Merge Sort is a stable sorting algorithm.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Quick Sort has an average time complexity of O(n²).",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Sorting helps in faster searching operations in an array.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Bubble Sort has a best-case time complexity of O(n) when the array is already sorted.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Selection Sort is not an in-place sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Merge Sort requires additional memory space for merging.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Quick Sort is always the best sorting algorithm to use in every case.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Insertion Sort is useful for sorting small datasets efficiently.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Bubble Sort is also known as a sinking sort.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Selection Sort is a stable sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Merge Sort performs well on linked lists compared to arrays.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Quick Sort requires extra memory for its recursive calls.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Insertion Sort has a worst-case time complexity of O(n log n).",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Bubble Sort is an adaptive sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "Merge Sort is not a comparison-based sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "Selection Sort has a time complexity of O(n²) in all cases.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Quick Sort is always faster than Merge Sort.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Bubble Sort can be optimized by stopping early when no swaps are made.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Merge Sort is preferred for external sorting.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Selection Sort performs fewer swaps compared to Bubble Sort.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Insertion Sort is more efficient than Bubble Sort for nearly sorted arrays.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Quick Sort follows the divide-and-conquer paradigm.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Bubble Sort always performs better than Insertion Sort.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Merge Sort is an in-place sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "Quick Sort is not suitable for datasets with many duplicate values.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Bubble Sort requires only a single pass to sort an already sorted array.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Selection Sort is widely used in real-world applications.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Merge Sort is not an adaptive sorting algorithm.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Insertion Sort is a stable sorting algorithm.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Quick Sort requires O(n²) extra space in the worst case.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "Bubble Sort is considered a practical sorting algorithm for large datasets.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Selection Sort is useful when memory swaps are costly.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Merge Sort is slower than Bubble Sort for large datasets.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Quick Sort is more memory-efficient than Merge Sort.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Bubble Sort works well when only a few elements are out of order.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "Selection Sort is more efficient than Quick Sort.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Merge Sort can be implemented iteratively.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Quick Sort's worst-case occurs when the smallest or largest element is always chosen as the pivot.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Insertion Sort is not an in-place sorting algorithm.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "Merge Sort always takes O(n log n) time, even in the best case.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Bubble Sort works by dividing the array into smaller subarrays and merging them.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "Quick Sort is generally faster than Selection Sort for large datasets.",
+      "answer": true
+    }
+  ]
+  

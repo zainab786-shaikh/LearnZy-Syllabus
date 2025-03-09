@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "A tree is a ________ data structure that represents hierarchical relationships.",
+      "options": [
+        "linear",
+        "hierarchical",
+        "circular",
+        "static"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "A tree consists of elements called ________ connected by edges.",
+      "options": [
+        "vertices",
+        "nodes",
+        "arrays",
+        "stacks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The ________ of a tree is the node that has no parent.",
+      "options": [
+        "leaf node",
+        "root node",
+        "internal node",
+        "child node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The degree of a node is the number of ________ it has.",
+      "options": [
+        "edges",
+        "parents",
+        "children",
+        "levels"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "The maximum degree of any node in a tree is called the ________ of the tree.",
+      "options": [
+        "level",
+        "depth",
+        "degree",
+        "height"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The level of the root node in a tree is always ________.",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "depends on depth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A node with no children is called a ________ node.",
+      "options": [
+        "root",
+        "leaf",
+        "parent",
+        "internal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The depth of a node is the distance from the ________ to that node.",
+      "options": [
+        "parent node",
+        "child node",
+        "root node",
+        "leaf node"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The longest path from the root node to any leaf node is called the ________ of the tree.",
+      "options": [
+        "degree",
+        "level",
+        "depth",
+        "height"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "A node that has an incoming edge but no outgoing edge is called a ________ node.",
+      "options": [
+        "root",
+        "internal",
+        "leaf",
+        "ancestor"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "A node that has both parent and child nodes is called an ________ node.",
+      "options": [
+        "internal",
+        "leaf",
+        "ancestor",
+        "external"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The number of edges coming into a node is called its ________.",
+      "options": [
+        "out-degree",
+        "degree",
+        "level",
+        "in-degree"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "The number of edges going out of a node is called its ________.",
+      "options": [
+        "in-degree",
+        "out-degree",
+        "degree",
+        "level"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A path in a tree is a sequence of ________ between two nodes.",
+      "options": [
+        "edges",
+        "nodes",
+        "levels",
+        "degrees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The ancestor of a node is any node that appears on the path from that node to the ________.",
+      "options": [
+        "leaf node",
+        "root node",
+        "child node",
+        "internal node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "A descendant of a node is any node that appears on the path from that node to the ________.",
+      "options": [
+        "root node",
+        "leaf node",
+        "parent node",
+        "sibling node"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In a tree, every node except the root has exactly one ________.",
+      "options": [
+        "parent",
+        "child",
+        "leaf",
+        "degree"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "A tree with only one node has a height of ________.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "depends on depth"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The height of a tree is determined by the longest path from the root to a ________ node.",
+      "options": [
+        "parent",
+        "child",
+        "leaf",
+        "root"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "The term 'binary tree' refers to a tree where each node has at most ________ children.",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2
+    }
+  ]
+  

@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "A queue follows the ________ principle.",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "Random Order Processing",
+        "Priority Based Processing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The operation of adding an element to the queue is called ________.",
+      "options": [
+        "push",
+        "pop",
+        "enqueue",
+        "dequeue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The operation of removing an element from the queue is called ________.",
+      "options": [
+        "push",
+        "pop",
+        "enqueue",
+        "dequeue"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "In a queue, elements are added at the ________.",
+      "options": [
+        "front",
+        "rear",
+        "middle",
+        "top"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In a queue, elements are removed from the ________.",
+      "options": [
+        "front",
+        "rear",
+        "middle",
+        "top"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A queue is a type of ________ data structure.",
+      "options": [
+        "linear",
+        "non-linear",
+        "tree",
+        "graph"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "A queue is said to be full when ________.",
+      "options": [
+        "front == -1",
+        "rear == SIZE - 1",
+        "front > rear",
+        "rear == front"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A queue is said to be empty when ________.",
+      "options": [
+        "front == -1 or front > rear",
+        "rear == SIZE - 1",
+        "rear == front",
+        "front == SIZE - 1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The pointer that keeps track of the front of the queue is called ________.",
+      "options": [
+        "top",
+        "head",
+        "front",
+        "rear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "The pointer that keeps track of the rear of the queue is called ________.",
+      "options": [
+        "top",
+        "head",
+        "front",
+        "rear"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Queue underflow occurs when trying to remove an element from a ________ queue.",
+      "options": [
+        "full",
+        "sorted",
+        "empty",
+        "overflowing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Queue overflow occurs when trying to add an element to a ________ queue.",
+      "options": [
+        "full",
+        "sorted",
+        "empty",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The default initial value of front and rear in an empty queue is ________.",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "SIZE - 1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "After a dequeue operation, the front pointer moves ________.",
+      "options": [
+        "forward",
+        "backward",
+        "remains unchanged",
+        "resets to -1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "After an enqueue operation, the rear pointer moves ________.",
+      "options": [
+        "forward",
+        "backward",
+        "remains unchanged",
+        "resets to -1"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The process of inserting an element in a queue is known as ________.",
+      "options": [
+        "enqueue",
+        "dequeue",
+        "push",
+        "pop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The process of deleting an element from a queue is called ________.",
+      "options": [
+        "enqueue",
+        "dequeue",
+        "push",
+        "pop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The time complexity of enqueue operation in an array-based queue is ________.",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The time complexity of dequeue operation in an array-based queue is ________.",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "A queue is useful in ________ scheduling in an operating system.",
+      "options": [
+        "process",
+        "memory",
+        "disk",
+        "power"
+      ],
+      "answer": 1
+    }
+  ]
+  

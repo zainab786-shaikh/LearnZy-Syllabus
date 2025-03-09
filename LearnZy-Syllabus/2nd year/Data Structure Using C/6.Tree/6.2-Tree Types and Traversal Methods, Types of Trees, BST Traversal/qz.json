@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Which data structure is used to represent hierarchical relationships between elements?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "In a General Tree, how many children can a node have?",
+      "options": [
+        "At most two",
+        "Only one",
+        "Any number",
+        "Exactly three"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of a General Tree?",
+      "options": [
+        "Binary Search Tree",
+        "Family Tree",
+        "Stack",
+        "Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is the maximum number of children a node can have in a Binary Tree?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What are the two children in a Binary Tree called?",
+      "options": [
+        "First and Second Child",
+        "Left and Right Child",
+        "Upper and Lower Child",
+        "Root and Leaf"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the main rule of a Binary Search Tree (BST)?",
+      "options": [
+        "Left child contains a greater value than the parent",
+        "Right child contains a smaller value than the parent",
+        "Left child contains a smaller value, and the right child contains a greater value",
+        "Nodes have random values"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which of the following trees follows a specific ordering rule?",
+      "options": [
+        "General Tree",
+        "Binary Tree",
+        "Binary Search Tree (BST)",
+        "Heap"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "In a BST, where is the smallest value always located?",
+      "options": [
+        "Root",
+        "Rightmost node",
+        "Leftmost node",
+        "Middle node"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "In an In-Order Traversal, which order do we visit nodes?",
+      "options": [
+        "Left → Root → Right",
+        "Root → Left → Right",
+        "Left → Right → Root",
+        "Right → Left → Root"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which traversal visits the root node first?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "Breadth-First"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which traversal method visits the root node last?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "Level-Order"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What is the correct In-Order Traversal sequence for the given tree?\n\n        A\n       / \\\n      B   C\n     / \\\n    D   E",
+      "options": [
+        "A → B → D → E → C",
+        "D → B → E → A → C",
+        "A → B → C → D → E",
+        "B → A → D → E → C"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which traversal is commonly used in expression trees for evaluating expressions?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "Breadth-First"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "In which traversal is the right subtree always visited before the left subtree?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "None"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Which traversal technique is best for searching in a Binary Search Tree (BST)?",
+      "options": [
+        "Pre-Order",
+        "In-Order",
+        "Post-Order",
+        "Depth-First"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which tree traversal method is often used for copying a tree?",
+      "options": [
+        "In-Order",
+        "Pre-Order",
+        "Post-Order",
+        "Level-Order"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In a Binary Tree, what is a node called if it has no children?",
+      "options": [
+        "Root",
+        "Internal Node",
+        "Leaf Node",
+        "Parent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Which type of tree is widely used in databases and file systems?",
+      "options": [
+        "General Tree",
+        "Binary Tree",
+        "Binary Search Tree",
+        "B-Tree"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a traversal method?",
+      "options": [
+        "Pre-Order",
+        "In-Order",
+        "Post-Order",
+        "Middle-Order"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "What is the correct Post-Order Traversal sequence for the given tree?\n\n        1\n       /   \\\n      2     3\n     / \\   / \\\n    4   5 6   7",
+      "options": [
+        "4 5 2 6 7 3 1",
+        "4 2 5 1 6 3 7",
+        "1 2 4 5 3 6 7",
+        "1 4 5 2 6 3 7"
+      ],
+      "answer": 1
+    }
+  ]
+  

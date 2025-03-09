@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is sorting?",
+      "options": [
+        "Arranging data randomly",
+        "Arranging data in a specific order",
+        "Deleting unnecessary data",
+        "Finding specific elements in a dataset"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a reason why sorting is important?",
+      "options": [
+        "Makes searching faster",
+        "Helps in organizing data",
+        "Increases memory usage",
+        "Used in databases and file organization"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which sorting algorithm is known for being the simplest but slowest?",
+      "options": [
+        "Merge Sort",
+        "Quick Sort",
+        "Bubble Sort",
+        "Insertion Sort"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "How does Bubble Sort work?",
+      "options": [
+        "Finds the smallest element and moves it to the front",
+        "Sorts elements like playing cards",
+        "Uses a pivot to divide and sort",
+        "Compares adjacent elements and swaps if necessary"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "What is the time complexity of Bubble Sort in the worst case?",
+      "options": [
+        "O(n log n)",
+        "O(n^2)",
+        "O(n)",
+        "O(1)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which sorting algorithm works by selecting the smallest element and moving it to the correct position?",
+      "options": [
+        "Bubble Sort",
+        "Quick Sort",
+        "Selection Sort",
+        "Merge Sort"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What real-life example best describes Selection Sort?",
+      "options": [
+        "Sorting playing cards in your hand",
+        "Finding the lightest book and placing it at the start",
+        "Splitting and merging groups of students",
+        "Comparing each item with a pivot and placing accordingly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the time complexity of Selection Sort in the worst case?",
+      "options": [
+        "O(n log n)",
+        "O(n^2)",
+        "O(n)",
+        "O(1)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which sorting algorithm sorts elements like playing cards?",
+      "options": [
+        "Selection Sort",
+        "Insertion Sort",
+        "Bubble Sort",
+        "Merge Sort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the time complexity of Insertion Sort in the worst case?",
+      "options": [
+        "O(n log n)",
+        "O(n^2)",
+        "O(n)",
+        "O(1)"
+      ],
+      "answer": 2
+    }
+  ]
+  

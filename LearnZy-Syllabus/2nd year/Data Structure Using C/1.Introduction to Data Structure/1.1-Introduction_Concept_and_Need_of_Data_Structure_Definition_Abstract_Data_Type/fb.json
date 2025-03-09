@@ -1,0 +1,278 @@
+[
+    {
+      "id": 1,
+      "question": "A ________ is a way of organizing and storing data efficiently.",
+      "options": [
+        "database",
+        "data structure",
+        "software program",
+        "binary file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Data structures help in ________ data management.",
+      "options": [
+        "efficient",
+        "slow",
+        "complex",
+        "random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "One major advantage of data structures is ________ memory usage.",
+      "options": [
+        "optimized",
+        "wasted",
+        "unmanaged",
+        "excessive"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "An example of a real-life data structure is a ________, where books are arranged in sections.",
+      "options": [
+        "library",
+        "cinema hall",
+        "bus station",
+        "hospital"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In a contact list, names are stored in ________ order for easy searching.",
+      "options": [
+        "random",
+        "alphabetical",
+        "reversed",
+        "unordered"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The ________ structure is commonly used in GPS navigation to find the shortest route.",
+      "options": [
+        "stack",
+        "queue",
+        "graph",
+        "tree"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "A stack follows the ________ principle.",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "FILO"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A queue follows the ________ principle.",
+      "options": [
+        "LIFO",
+        "FILO",
+        "FIFO",
+        "LILO"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "A tree is a ________ data structure.",
+      "options": [
+        "linear",
+        "hierarchical",
+        "random",
+        "circular"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A linked list consists of ________ that contain data and references to the next element.",
+      "options": [
+        "arrays",
+        "stacks",
+        "nodes",
+        "edges"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "An Abstract Data Type (ADT) defines only the ________ of data, not the implementation.",
+      "options": [
+        "structure",
+        "behavior",
+        "size",
+        "storage location"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "A list ADT supports operations such as insert, delete, search, and ________.",
+      "options": [
+        "print",
+        "reverse",
+        "traverse",
+        "sort"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "A stack uses the operations ________, pop, and peek.",
+      "options": [
+        "delete",
+        "push",
+        "insert",
+        "enqueue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "In a queue, insertion is done at the ________ end and deletion at the front end.",
+      "options": [
+        "middle",
+        "rear",
+        "left",
+        "right"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "A dictionary ADT stores data in ________ pairs.",
+      "options": [
+        "value-key",
+        "number-character",
+        "key-value",
+        "index-value"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "A ________ data structure is useful for implementing Undo/Redo operations.",
+      "options": [
+        "queue",
+        "stack",
+        "graph",
+        "array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Memory allocation in an array is ________, meaning all elements are stored in consecutive locations.",
+      "options": [
+        "random",
+        "dynamic",
+        "contiguous",
+        "scattered"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "A graph consists of nodes connected by ________.",
+      "options": [
+        "edges",
+        "trees",
+        "arrays",
+        "lists"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A priority queue is often implemented using a ________.",
+      "options": [
+        "heap",
+        "linked list",
+        "stack",
+        "graph"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "A binary tree has at most ________ children per node.",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "A hash table is a data structure that maps keys to ________.",
+      "options": [
+        "nodes",
+        "values",
+        "edges",
+        "arrays"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "The process of visiting each element in a data structure is called ________.",
+      "options": [
+        "sorting",
+        "traversing",
+        "searching",
+        "inserting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "The operations of a stack include ________ and pop.",
+      "options": [
+        "enqueue",
+        "push",
+        "delete",
+        "traverse"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "A queue is useful for implementing ________ scheduling in operating systems.",
+      "options": [
+        "priority",
+        "CPU",
+        "process",
+        "FIFO"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "The most suitable data structure for managing function calls in recursion is a ________.",
+      "options": [
+        "queue",
+        "stack",
+        "linked list",
+        "graph"
+      ],
+      "answer": 2
+    }
+  ]
+  

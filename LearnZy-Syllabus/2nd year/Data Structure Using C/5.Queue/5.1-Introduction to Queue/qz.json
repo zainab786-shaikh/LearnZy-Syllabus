@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which principle does a queue follow?",
+      "options": [
+        "Last In, First Out (LIFO)",
+        "First In, First Out (FIFO)",
+        "First Come, Last Served",
+        "Random Access"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What operation is used to add an element to a queue?",
+      "options": [
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Dequeue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What operation is used to remove an element from a queue?",
+      "options": [
+        "Push",
+        "Pop",
+        "Enqueue",
+        "Dequeue"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "In an array-based queue, what does the 'Front' pointer represent?",
+      "options": [
+        "Last inserted element",
+        "First element in the queue",
+        "Total number of elements",
+        "Middle element"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which problem occurs in an array-based queue when elements are dequeued?",
+      "options": [
+        "Memory leakage",
+        "Pointer misalignment",
+        "Empty spaces at the front",
+        "Stack overflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which type of queue solves the problem of empty spaces in an array-based queue?",
+      "options": [
+        "Priority Queue",
+        "Circular Queue",
+        "Double-ended Queue",
+        "Static Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What advantage does a linked list-based queue have over an array-based queue?",
+      "options": [
+        "Faster execution",
+        "Fixed memory usage",
+        "No need for a fixed size",
+        "More cache efficiency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What does a queue implemented using a linked list store in each node?",
+      "options": [
+        "Only data",
+        "Only pointer",
+        "Data and a pointer to the next node",
+        "Pointer to the previous node only"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which function checks if a queue is empty?",
+      "options": [
+        "isEmpty()",
+        "isFull()",
+        "checkQueue()",
+        "peek()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What does the 'rear' pointer in a queue represent?",
+      "options": [
+        "First element in the queue",
+        "Last inserted element",
+        "Total number of elements",
+        "Middle element"
+      ],
+      "answer": 2
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following operations involves accessing each element of a data structure exactly once?",
+      "options": [
+        "Insertion",
+        "Deletion",
+        "Traversing",
+        "Sorting"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "In an array, what must be done after deleting an element to maintain order?",
+      "options": [
+        "Nothing, the space remains empty",
+        "Shift elements to fill the gap",
+        "Resize the array automatically",
+        "Replace the deleted element with a default value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes insertion in an array?",
+      "options": [
+        "Adding a new element at any position",
+        "Only adding elements at the end",
+        "Replacing existing elements",
+        "Deleting and then inserting a new element"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the primary purpose of traversing an array?",
+      "options": [
+        "To delete elements",
+        "To access and process each element",
+        "To increase array size",
+        "To insert elements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT an operation on data structures?",
+      "options": [
+        "Insertion",
+        "Compilation",
+        "Deletion",
+        "Traversing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What happens if you try to insert an element in an already full array?",
+      "options": [
+        "The new element replaces an old one",
+        "An error occurs",
+        "The array automatically expands",
+        "The new element is inserted at the last position"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In C programming, how do you access all elements of an array?",
+      "options": [
+        "Using a single printf statement",
+        "Using a loop",
+        "By directly referencing the last element",
+        "By manually specifying each index"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which data structure operation is used when displaying all elements of an array?",
+      "options": [
+        "Insertion",
+        "Deletion",
+        "Sorting",
+        "Traversing"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "What is the complexity of inserting an element at the beginning of an array?",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is TRUE about deletion in an array?",
+      "options": [
+        "The deleted element's space remains empty",
+        "All elements are automatically reordered",
+        "The remaining elements must be shifted to maintain order",
+        "Deletion is not possible in an array"
+      ],
+      "answer": 3
+    }
+  ]
+  

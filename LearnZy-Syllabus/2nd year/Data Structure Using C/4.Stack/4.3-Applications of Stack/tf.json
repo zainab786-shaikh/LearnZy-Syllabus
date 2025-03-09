@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "A stack follows the Last In, First Out (LIFO) principle.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "In a stack, elements are removed using the push operation.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Stacks are commonly used in recursion to store function calls.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Postfix notation requires parentheses to determine operator precedence.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Stacks can be used to evaluate expressions in postfix notation.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "In infix notation, the operator appears before the operands.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Postfix notation is also known as Reverse Polish Notation (RPN).",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Postfix notation eliminates the need for parentheses in expressions.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "In postfix notation, the expression (A + B) * C is written as A B + C *.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "In postfix evaluation, operators are pushed onto the stack before operands.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The precedence of the multiplication (*) operator is lower than that of the addition (+) operator.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "The pop operation removes an element from the bottom of the stack.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "A stack can be implemented using an array or a linked list.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A stack overflow occurs when an attempt is made to push an element onto a full stack.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Stacks are used in function call management in programming languages.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "In postfix notation, the expression A B C + * means (A * (B + C)).",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Stacks can be used to check balanced parentheses in an expression.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "The push operation removes an element from the stack.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Postfix expressions can be evaluated using a single scan of the expression.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "In a stack, the top element is always the most recently added element.",
+      "answer": true
+    }
+  ]
+  
